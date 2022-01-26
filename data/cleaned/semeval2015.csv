@@ -1,0 +1,1023 @@
+id,target_word,context_string
+d000.s000.t000,document,summary european public assessment report epar
+d000.s000.t001,summary,document european public assessment report epar
+d000.s000.t002,european,document summary public assessment report epar
+d000.s000.t003,public,document summary european assessment report epar
+d000.s000.t004,assessment,document summary european public report epar
+d000.s000.t005,report,document summary european public assessment epar
+d000.s001.t000,explain,committee medicinal product human use chmp assess study perform reach recommendation use medicine
+d000.s001.t001,committee,explain medicinal product human use chmp assess study perform reach recommendation use medicine
+d000.s001.t002,medicinal,explain committee product human use chmp assess study perform reach recommendation use medicine
+d000.s001.t003,product,explain committee medicinal human use chmp assess study perform reach recommendation use medicine
+d000.s001.t004,human,explain committee medicinal product use chmp assess study perform reach recommendation use medicine
+d000.s001.t005,use,explain committee medicinal product human chmp assess study perform reach recommendation use medicine
+d000.s001.t006,assess,explain committee medicinal product human use chmp study perform reach recommendation use medicine
+d000.s001.t007,study,explain committee medicinal product human use chmp assess perform reach recommendation use medicine
+d000.s001.t008,perform,explain committee medicinal product human use chmp assess study reach recommendation use medicine
+d000.s001.t009,reach,explain committee medicinal product human use chmp assess study perform recommendation use medicine
+d000.s001.t010,recommendation,explain committee medicinal product human use chmp assess study perform reach use medicine
+d000.s001.t011,use,explain committee medicinal product human chmp assess study perform reach recommendation use medicine
+d000.s001.t012,medicine,explain committee medicinal product human use chmp assess study perform reach recommendation use
+d000.s002.t000,need,information medical condition treatment read package leaflet also part epar contact doctor pharmacist
+d000.s002.t001,more,need information medical condition treatment read package leaflet also part epar contact doctor pharmacist
+d000.s002.t002,information,need medical condition treatment read package leaflet also part epar contact doctor pharmacist
+d000.s002.t003,medical,need information condition treatment read package leaflet also part epar contact doctor pharmacist
+d000.s002.t004,condition,need information medical treatment read package leaflet also part epar contact doctor pharmacist
+d000.s002.t005,treatment,need information medical condition read package leaflet also part epar contact doctor pharmacist
+d000.s002.t006,read,need information medical condition treatment package leaflet also part epar contact doctor pharmacist
+d000.s002.t007,package,need information medical condition treatment read leaflet also part epar contact doctor pharmacist
+d000.s002.t008,leaflet,need information medical condition treatment read package also part epar contact doctor pharmacist
+d000.s002.t009,also,need information medical condition treatment read package leaflet part epar contact doctor pharmacist
+d000.s002.t010,part,need information medical condition treatment read package leaflet also epar contact doctor pharmacist
+d000.s002.t011,contact,need information medical condition treatment read package leaflet also part epar doctor pharmacist
+d000.s002.t012,doctor,need information medical condition treatment read package leaflet also part epar contact pharmacist
+d000.s002.t013,pharmacist,need information medical condition treatment read package leaflet also part epar contact doctor
+d000.s003.t000,want,information basis chmp recommendation read scientific discussion also part epar
+d000.s003.t001,more,want information basis chmp recommendation read scientific discussion also part epar
+d000.s003.t002,information,want basis chmp recommendation read scientific discussion also part epar
+d000.s003.t003,basis,want information chmp recommendation read scientific discussion also part epar
+d000.s003.t004,recommendation,want information basis chmp read scientific discussion also part epar
+d000.s003.t005,read,want information basis chmp recommendation scientific discussion also part epar
+d000.s003.t006,scientific,want information basis chmp recommendation read discussion also part epar
+d000.s003.t007,discussion,want information basis chmp recommendation read scientific also part epar
+d000.s003.t008,also,want information basis chmp recommendation read scientific discussion part epar
+d000.s003.t009,part,want information basis chmp recommendation read scientific discussion also epar
+d000.s005.t000,powder,alimta make_up solution infusion drip vein
+d000.s005.t001,make_up,alimta powder solution infusion drip vein
+d000.s005.t002,solution,alimta powder make_up infusion drip vein
+d000.s005.t003,infusion,alimta powder make_up solution drip vein
+d000.s005.t004,drip,alimta powder make_up solution infusion vein
+d000.s005.t005,vein,alimta powder make_up solution infusion drip
+d000.s006.t000,contain,active substance pemetrex
+d000.s006.t001,active,contain substance pemetrex
+d000.s006.t002,substance,contain active pemetrex
+d000.s007.t000,use,alimta
+d000.s008.t000,use,alimta treat two type cancer pleural mesothelioma cancer lining lung usually cause exposure asbestos
+d000.s008.t001,treat,alimta use two type cancer pleural mesothelioma cancer lining lung usually cause exposure asbestos
+d000.s008.t002,type,alimta use treat two cancer pleural mesothelioma cancer lining lung usually cause exposure asbestos
+d000.s008.t003,cancer,alimta use treat two type pleural mesothelioma cancer lining lung usually cause exposure asbestos
+d000.s008.t004,pleural,alimta use treat two type cancer mesothelioma cancer lining lung usually cause exposure asbestos
+d000.s008.t005,mesothelioma,alimta use treat two type cancer pleural cancer lining lung usually cause exposure asbestos
+d000.s008.t006,cancer,alimta use treat two type pleural mesothelioma cancer lining lung usually cause exposure asbestos
+d000.s008.t007,lining,alimta use treat two type cancer pleural mesothelioma cancer lung usually cause exposure asbestos
+d000.s008.t008,lung,alimta use treat two type cancer pleural mesothelioma cancer lining usually cause exposure asbestos
+d000.s008.t009,usually,alimta use treat two type cancer pleural mesothelioma cancer lining lung cause exposure asbestos
+d000.s008.t010,cause,alimta use treat two type cancer pleural mesothelioma cancer lining lung usually exposure asbestos
+d000.s008.t011,exposure,alimta use treat two type cancer pleural mesothelioma cancer lining lung usually cause asbestos
+d000.s008.t012,asbestos,alimta use treat two type cancer pleural mesothelioma cancer lining lung usually cause exposure
+d000.s009.t000,use,alimta together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t001,together_with,alimta use cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t002,anticancer,alimta use together_with cisplatin another medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t003,medicine,alimta use together_with cisplatin another anticancer cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t004,cancer,alimta use together_with cisplatin another anticancer medicine unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t005,remove,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t006,surgery,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t007,alone,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t008,malignant,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t009,spread,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t010,likely,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t011,spread,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t012,easily,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t013,other,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t014,part,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t015,body,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t016,patient,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t017,not,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t018,receive,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t019,chemotherapy,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t020,medicine,alimta use together_with cisplatin another anticancer cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t021,cancer,alimta use together_with cisplatin another anticancer medicine unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t022,advanced,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t023,metastatic,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced non-small cell lung_cancer affect squamous_cell
+d000.s009.t024,cell,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small lung_cancer affect squamous_cell
+d000.s009.t025,lung_cancer,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell affect squamous_cell
+d000.s009.t026,not,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect squamous_cell
+d000.s009.t027,affect,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer squamous_cell
+d000.s009.t028,squamous_cell,alimta use together_with cisplatin another anticancer medicine cancer unresectable cannot remove surgery alone malignant spread likely spread easily part body patient receive chemotherapy medicine cancer advanced metastatic non-small cell lung_cancer affect
+d000.s010.t000,use,alimta combination cisplatin patient treat patient receive another type chemotherapy past
+d000.s010.t001,combination,alimta use cisplatin patient treat patient receive another type chemotherapy past
+d000.s010.t002,patient,alimta use combination cisplatin treat patient receive another type chemotherapy past
+d000.s010.t003,not,alimta use combination cisplatin patient treat patient receive another type chemotherapy past
+d000.s010.t004,treat,alimta use combination cisplatin patient patient receive another type chemotherapy past
+d000.s010.t005,patient,alimta use combination cisplatin treat patient receive another type chemotherapy past
+d000.s010.t006,receive,alimta use combination cisplatin patient treat patient another type chemotherapy past
+d000.s010.t007,type,alimta use combination cisplatin patient treat patient receive another chemotherapy past
+d000.s010.t008,chemotherapy,alimta use combination cisplatin patient treat patient receive another type past
+d000.s010.t009,past,alimta use combination cisplatin patient treat patient receive another type chemotherapy
+d000.s011.t000,medicine,obtain prescription
+d000.s011.t001,only,medicine obtain prescription
+d000.s011.t002,obtain,medicine prescription
+d000.s011.t003,prescription,medicine obtain
+d000.s012.t000,use,alimta
+d000.s013.t000,only,alimta give supervision doctor qualify use anticancer chemotherapy
+d000.s013.t001,give,alimta supervision doctor qualify use anticancer chemotherapy
+d000.s013.t002,supervision,alimta give doctor qualify use anticancer chemotherapy
+d000.s013.t003,doctor,alimta give supervision qualify use anticancer chemotherapy
+d000.s013.t004,use,alimta give supervision doctor qualify anticancer chemotherapy
+d000.s013.t005,anticancer,alimta give supervision doctor qualify use chemotherapy
+d000.s013.t006,chemotherapy,alimta give supervision doctor qualify use anticancer
+d000.s014.t000,dose,recommend alimta mg per square_metre body surface_area calculate use patient height weight
+d000.s014.t001,mg,recommend dose alimta per square_metre body surface_area calculate use patient height weight
+d000.s014.t002,square_metre,recommend dose alimta mg per body surface_area calculate use patient height weight
+d000.s014.t003,body,recommend dose alimta mg per square_metre surface_area calculate use patient height weight
+d000.s014.t004,surface_area,recommend dose alimta mg per square_metre body calculate use patient height weight
+d000.s014.t005,calculate,recommend dose alimta mg per square_metre body surface_area use patient height weight
+d000.s014.t006,use,recommend dose alimta mg per square_metre body surface_area calculate patient height weight
+d000.s014.t007,patient,recommend dose alimta mg per square_metre body surface_area calculate use height weight
+d000.s014.t008,height,recommend dose alimta mg per square_metre body surface_area calculate use patient weight
+d000.s014.t009,weight,recommend dose alimta mg per square_metre body surface_area calculate use patient height
+d000.s015.t000,give,every three week intravenous infusion last minute
+d000.s015.t001,once,give every three week intravenous infusion last minute
+d000.s015.t002,every,give three week intravenous infusion last minute
+d000.s015.t003,week,give every three intravenous infusion last minute
+d000.s015.t004,intravenous,give every three week infusion last minute
+d000.s015.t005,infusion,give every three week intravenous last minute
+d000.s015.t006,last,give every three week intravenous infusion minute
+d000.s015.t007,minute,give every three week intravenous infusion last
+d000.s016.t000,reduce,side_effect patient take corticosteroid folic_acid type vitamin receive injection vitamin_b12 treatment alimta
+d000.s016.t001,side_effect,reduce patient take corticosteroid folic_acid type vitamin receive injection vitamin_b12 treatment alimta
+d000.s016.t002,patient,reduce side_effect take corticosteroid folic_acid type vitamin receive injection vitamin_b12 treatment alimta
+d000.s016.t003,take,reduce side_effect patient corticosteroid folic_acid type vitamin receive injection vitamin_b12 treatment alimta
+d000.s016.t004,corticosteroid,reduce side_effect patient take folic_acid type vitamin receive injection vitamin_b12 treatment alimta
+d000.s016.t005,folic_acid,reduce side_effect patient take corticosteroid type vitamin receive injection vitamin_b12 treatment alimta
+d000.s016.t006,type,reduce side_effect patient take corticosteroid folic_acid vitamin receive injection vitamin_b12 treatment alimta
+d000.s016.t007,vitamin,reduce side_effect patient take corticosteroid folic_acid type receive injection vitamin_b12 treatment alimta
+d000.s016.t008,injection,reduce side_effect patient take corticosteroid folic_acid type vitamin receive vitamin_b12 treatment alimta
+d000.s016.t009,vitamin_b12,reduce side_effect patient take corticosteroid folic_acid type vitamin receive injection treatment alimta
+d000.s016.t010,treatment,reduce side_effect patient take corticosteroid folic_acid type vitamin receive injection vitamin_b12 alimta
+d000.s017.t000,give,alimta cisplatin anti-emetic medicine prevent vomit fluid prevent dehydration also give cisplatin dose
+d000.s017.t001,medicine,alimta give cisplatin anti-emetic prevent vomit fluid prevent dehydration also give cisplatin dose
+d000.s017.t002,prevent,alimta give cisplatin anti-emetic medicine vomit fluid prevent dehydration also give cisplatin dose
+d000.s017.t003,vomit,alimta give cisplatin anti-emetic medicine prevent fluid prevent dehydration also give cisplatin dose
+d000.s017.t004,fluid,alimta give cisplatin anti-emetic medicine prevent vomit prevent dehydration also give cisplatin dose
+d000.s017.t005,prevent,alimta give cisplatin anti-emetic medicine vomit fluid prevent dehydration also give cisplatin dose
+d000.s017.t006,dehydration,alimta give cisplatin anti-emetic medicine prevent vomit fluid prevent also give cisplatin dose
+d000.s017.t007,also,alimta give cisplatin anti-emetic medicine prevent vomit fluid prevent dehydration give cisplatin dose
+d000.s017.t008,give,alimta cisplatin anti-emetic medicine prevent vomit fluid prevent dehydration also give cisplatin dose
+d000.s017.t009,before,alimta give cisplatin anti-emetic medicine prevent vomit fluid prevent dehydration also give cisplatin dose
+d000.s017.t010,after,alimta give cisplatin anti-emetic medicine prevent vomit fluid prevent dehydration also give cisplatin dose
+d000.s017.t011,dose,alimta give cisplatin anti-emetic medicine prevent vomit fluid prevent dehydration also give cisplatin
+d000.s018.t000,treatment,delay discontinue dose reduce patient whose blood_count abnormal certain side_effect
+d000.s018.t001,delay,treatment discontinue dose reduce patient whose blood_count abnormal certain side_effect
+d000.s018.t002,discontinue,treatment delay dose reduce patient whose blood_count abnormal certain side_effect
+d000.s018.t003,dose,treatment delay discontinue reduce patient whose blood_count abnormal certain side_effect
+d000.s018.t004,reduce,treatment delay discontinue dose patient whose blood_count abnormal certain side_effect
+d000.s018.t005,patient,treatment delay discontinue dose reduce whose blood_count abnormal certain side_effect
+d000.s018.t006,blood_count,treatment delay discontinue dose reduce patient whose abnormal certain side_effect
+d000.s018.t007,abnormal,treatment delay discontinue dose reduce patient whose blood_count certain side_effect
+d000.s018.t008,have,treatment delay discontinue dose reduce patient whose blood_count abnormal certain side_effect
+d000.s018.t009,certain,treatment delay discontinue dose reduce patient whose blood_count abnormal side_effect
+d000.s018.t010,other,treatment delay discontinue dose reduce patient whose blood_count abnormal certain side_effect
+d000.s018.t011,side_effect,treatment delay discontinue dose reduce patient whose blood_count abnormal certain
+d000.s019.t000,not,alimta recommend use patient moderate severe kidney problem
+d000.s019.t001,recommend,alimta use patient moderate severe kidney problem
+d000.s019.t002,use,alimta recommend patient moderate severe kidney problem
+d000.s019.t003,patient,alimta recommend use moderate severe kidney problem
+d000.s019.t004,moderate,alimta recommend use patient severe kidney problem
+d000.s019.t005,severe,alimta recommend use patient moderate kidney problem
+d000.s019.t006,kidney,alimta recommend use patient moderate severe problem
+d000.s019.t007,problem,alimta recommend use patient moderate severe kidney
+d000.s020.t000,more,information see summary product characteristic also part epar
+d000.s020.t001,information,see summary product characteristic also part epar
+d000.s020.t002,see,information summary product characteristic also part epar
+d000.s020.t003,summary,information see product characteristic also part epar
+d000.s020.t004,product,information see summary characteristic also part epar
+d000.s020.t005,also,information see summary product characteristic part epar
+d000.s020.t006,part,information see summary product characteristic also epar
+d000.s022.t000,active,substance alimta pemetrex cytotoxic medicine medicine kill cell divide cancer_cell belong_to group antimetabolite
+d000.s022.t001,substance,active alimta pemetrex cytotoxic medicine medicine kill cell divide cancer_cell belong_to group antimetabolite
+d000.s022.t002,cytotoxic,active substance alimta pemetrex medicine medicine kill cell divide cancer_cell belong_to group antimetabolite
+d000.s022.t003,medicine,active substance alimta pemetrex cytotoxic medicine kill cell divide cancer_cell belong_to group antimetabolite
+d000.s022.t004,medicine,active substance alimta pemetrex cytotoxic medicine kill cell divide cancer_cell belong_to group antimetabolite
+d000.s022.t005,kill,active substance alimta pemetrex cytotoxic medicine medicine cell divide cancer_cell belong_to group antimetabolite
+d000.s022.t006,cell,active substance alimta pemetrex cytotoxic medicine medicine kill divide cancer_cell belong_to group antimetabolite
+d000.s022.t007,divide,active substance alimta pemetrex cytotoxic medicine medicine kill cell cancer_cell belong_to group antimetabolite
+d000.s022.t008,cancer_cell,active substance alimta pemetrex cytotoxic medicine medicine kill cell divide belong_to group antimetabolite
+d000.s022.t009,belong_to,active substance alimta pemetrex cytotoxic medicine medicine kill cell divide cancer_cell group antimetabolite
+d000.s022.t010,group,active substance alimta pemetrex cytotoxic medicine medicine kill cell divide cancer_cell belong_to antimetabolite
+d000.s022.t011,antimetabolite,active substance alimta pemetrex cytotoxic medicine medicine kill cell divide cancer_cell belong_to group
+d000.s023.t000,body,pemetrex convert active form block activity enzyme involve produce nucleotide building_block dna rna genetic material cell
+d000.s023.t001,convert,body pemetrex active form block activity enzyme involve produce nucleotide building_block dna rna genetic material cell
+d000.s023.t002,active,body pemetrex convert form block activity enzyme involve produce nucleotide building_block dna rna genetic material cell
+d000.s023.t003,form,body pemetrex convert active block activity enzyme involve produce nucleotide building_block dna rna genetic material cell
+d000.s023.t004,block,body pemetrex convert active form activity enzyme involve produce nucleotide building_block dna rna genetic material cell
+d000.s023.t005,activity,body pemetrex convert active form block enzyme involve produce nucleotide building_block dna rna genetic material cell
+d000.s023.t006,enzyme,body pemetrex convert active form block activity involve produce nucleotide building_block dna rna genetic material cell
+d000.s023.t007,involve,body pemetrex convert active form block activity enzyme produce nucleotide building_block dna rna genetic material cell
+d000.s023.t008,produce,body pemetrex convert active form block activity enzyme involve nucleotide building_block dna rna genetic material cell
+d000.s023.t009,nucleotide,body pemetrex convert active form block activity enzyme involve produce building_block dna rna genetic material cell
+d000.s023.t010,building_block,body pemetrex convert active form block activity enzyme involve produce nucleotide dna rna genetic material cell
+d000.s023.t011,dna,body pemetrex convert active form block activity enzyme involve produce nucleotide building_block rna genetic material cell
+d000.s023.t012,rna,body pemetrex convert active form block activity enzyme involve produce nucleotide building_block dna genetic material cell
+d000.s023.t013,genetic,body pemetrex convert active form block activity enzyme involve produce nucleotide building_block dna rna material cell
+d000.s023.t014,material,body pemetrex convert active form block activity enzyme involve produce nucleotide building_block dna rna genetic cell
+d000.s023.t015,cell,body pemetrex convert active form block activity enzyme involve produce nucleotide building_block dna rna genetic material
+d000.s024.t000,study,alimta
+d000.s025.t000,treatment,malignant pleural mesothelioma alimta study one main study patient receive chemotherapy disease
+d000.s025.t001,malignant,treatment pleural mesothelioma alimta study one main study patient receive chemotherapy disease
+d000.s025.t002,pleural,treatment malignant mesothelioma alimta study one main study patient receive chemotherapy disease
+d000.s025.t003,mesothelioma,treatment malignant pleural alimta study one main study patient receive chemotherapy disease
+d000.s025.t004,study,treatment malignant pleural mesothelioma alimta one main study patient receive chemotherapy disease
+d000.s025.t005,main,treatment malignant pleural mesothelioma alimta study one study patient receive chemotherapy disease
+d000.s025.t006,study,treatment malignant pleural mesothelioma alimta one main study patient receive chemotherapy disease
+d000.s025.t007,patient,treatment malignant pleural mesothelioma alimta study one main study receive chemotherapy disease
+d000.s025.t008,not,treatment malignant pleural mesothelioma alimta study one main study patient receive chemotherapy disease
+d000.s025.t009,receive,treatment malignant pleural mesothelioma alimta study one main study patient chemotherapy disease
+d000.s025.t010,chemotherapy,treatment malignant pleural mesothelioma alimta study one main study patient receive disease
+d000.s025.t011,disease,treatment malignant pleural mesothelioma alimta study one main study patient receive chemotherapy
+d000.s025.t012,before,treatment malignant pleural mesothelioma alimta study one main study patient receive chemotherapy disease
+d000.s026.t000,effect,alimta combination cisplatin compare cisplatin alone
+d000.s026.t001,combination,effect alimta cisplatin compare cisplatin alone
+d000.s026.t002,compare,effect alimta combination cisplatin cisplatin alone
+d000.s026.t003,alone,effect alimta combination cisplatin compare cisplatin
+d000.s027.t000,treatment,non-small cell lung_cancer effect alimta compare docetaxel another anticancer medicine one study involve patient locally advanced metastatic disease receive chemotherapy past
+d000.s027.t001,cell,treatment non-small lung_cancer effect alimta compare docetaxel another anticancer medicine one study involve patient locally advanced metastatic disease receive chemotherapy past
+d000.s027.t002,lung_cancer,treatment non-small cell effect alimta compare docetaxel another anticancer medicine one study involve patient locally advanced metastatic disease receive chemotherapy past
+d000.s027.t003,effect,treatment non-small cell lung_cancer alimta compare docetaxel another anticancer medicine one study involve patient locally advanced metastatic disease receive chemotherapy past
+d000.s027.t004,compare,treatment non-small cell lung_cancer effect alimta docetaxel another anticancer medicine one study involve patient locally advanced metastatic disease receive chemotherapy past
+d000.s027.t005,anticancer,treatment non-small cell lung_cancer effect alimta compare docetaxel another medicine one study involve patient locally advanced metastatic disease receive chemotherapy past
+d000.s027.t006,medicine,treatment non-small cell lung_cancer effect alimta compare docetaxel another anticancer one study involve patient locally advanced metastatic disease receive chemotherapy past
+d000.s027.t007,study,treatment non-small cell lung_cancer effect alimta compare docetaxel another anticancer medicine one involve patient locally advanced metastatic disease receive chemotherapy past
+d000.s027.t008,involve,treatment non-small cell lung_cancer effect alimta compare docetaxel another anticancer medicine one study patient locally advanced metastatic disease receive chemotherapy past
+d000.s027.t009,patient,treatment non-small cell lung_cancer effect alimta compare docetaxel another anticancer medicine one study involve locally advanced metastatic disease receive chemotherapy past
+d000.s027.t010,locally,treatment non-small cell lung_cancer effect alimta compare docetaxel another anticancer medicine one study involve patient advanced metastatic disease receive chemotherapy past
+d000.s027.t011,advanced,treatment non-small cell lung_cancer effect alimta compare docetaxel another anticancer medicine one study involve patient locally metastatic disease receive chemotherapy past
+d000.s027.t012,metastatic,treatment non-small cell lung_cancer effect alimta compare docetaxel another anticancer medicine one study involve patient locally advanced disease receive chemotherapy past
+d000.s027.t013,disease,treatment non-small cell lung_cancer effect alimta compare docetaxel another anticancer medicine one study involve patient locally advanced metastatic receive chemotherapy past
+d000.s027.t014,receive,treatment non-small cell lung_cancer effect alimta compare docetaxel another anticancer medicine one study involve patient locally advanced metastatic disease chemotherapy past
+d000.s027.t015,chemotherapy,treatment non-small cell lung_cancer effect alimta compare docetaxel another anticancer medicine one study involve patient locally advanced metastatic disease receive past
+d000.s027.t016,past,treatment non-small cell lung_cancer effect alimta compare docetaxel another anticancer medicine one study involve patient locally advanced metastatic disease receive chemotherapy
+d000.s028.t000,also,"alimta compare gemcitabine another anticancer medicine combination cisplatin study involve 1,725 patient receive chemotherapy lung_cancer past"
+d000.s028.t001,compare,"alimta also gemcitabine another anticancer medicine combination cisplatin study involve 1,725 patient receive chemotherapy lung_cancer past"
+d000.s028.t002,anticancer,"alimta also compare gemcitabine another medicine combination cisplatin study involve 1,725 patient receive chemotherapy lung_cancer past"
+d000.s028.t003,medicine,"alimta also compare gemcitabine another anticancer combination cisplatin study involve 1,725 patient receive chemotherapy lung_cancer past"
+d000.s028.t004,combination,"alimta also compare gemcitabine another anticancer medicine cisplatin study involve 1,725 patient receive chemotherapy lung_cancer past"
+d000.s028.t005,study,"alimta also compare gemcitabine another anticancer medicine combination cisplatin involve 1,725 patient receive chemotherapy lung_cancer past"
+d000.s028.t006,involve,"alimta also compare gemcitabine another anticancer medicine combination cisplatin study 1,725 patient receive chemotherapy lung_cancer past"
+d000.s028.t007,patient,"alimta also compare gemcitabine another anticancer medicine combination cisplatin study involve 1,725 receive chemotherapy lung_cancer past"
+d000.s028.t008,not,"alimta also compare gemcitabine another anticancer medicine combination cisplatin study involve 1,725 patient receive chemotherapy lung_cancer past"
+d000.s028.t009,receive,"alimta also compare gemcitabine another anticancer medicine combination cisplatin study involve 1,725 patient chemotherapy lung_cancer past"
+d000.s028.t010,chemotherapy,"alimta also compare gemcitabine another anticancer medicine combination cisplatin study involve 1,725 patient receive lung_cancer past"
+d000.s028.t011,lung_cancer,"alimta also compare gemcitabine another anticancer medicine combination cisplatin study involve 1,725 patient receive chemotherapy past"
+d000.s028.t012,past,"alimta also compare gemcitabine another anticancer medicine combination cisplatin study involve 1,725 patient receive chemotherapy lung_cancer"
+d000.s029.t000,study,three main measure effectiveness long patient survive
+d000.s029.t001,main,three study measure effectiveness long patient survive
+d000.s029.t002,measure,three study main effectiveness long patient survive
+d000.s029.t003,effectiveness,three study main measure long patient survive
+d000.s029.t004,long,three study main measure effectiveness patient survive
+d000.s029.t005,patient,three study main measure effectiveness long survive
+d000.s029.t006,survive,three study main measure effectiveness long patient
+d000.s030.t000,benefit,alimta show study
+d000.s030.t001,show,benefit alimta study
+d000.s030.t002,study,benefit alimta show
+d000.s031.t000,increase,alimta survival time patient malignant pleural mesothelioma
+d000.s031.t001,survival,alimta increase time patient malignant pleural mesothelioma
+d000.s031.t002,time,alimta increase survival patient malignant pleural mesothelioma
+d000.s031.t003,patient,alimta increase survival time malignant pleural mesothelioma
+d000.s031.t004,malignant,alimta increase survival time patient pleural mesothelioma
+d000.s031.t005,pleural,alimta increase survival time patient malignant mesothelioma
+d000.s031.t006,mesothelioma,alimta increase survival time patient malignant pleural
+d000.s032.t000,patient,receive alimta cisplatin survive average 12.1 month compare 9.3 month receive cisplatin alone
+d000.s032.t001,receive,patient alimta cisplatin survive average 12.1 month compare 9.3 month receive cisplatin alone
+d000.s032.t002,survive,patient receive alimta cisplatin average 12.1 month compare 9.3 month receive cisplatin alone
+d000.s032.t003,average,patient receive alimta cisplatin survive 12.1 month compare 9.3 month receive cisplatin alone
+d000.s032.t004,month,patient receive alimta cisplatin survive average 12.1 compare 9.3 month receive cisplatin alone
+d000.s032.t005,compare,patient receive alimta cisplatin survive average 12.1 month 9.3 month receive cisplatin alone
+d000.s032.t006,month,patient receive alimta cisplatin survive average 12.1 compare 9.3 month receive cisplatin alone
+d000.s032.t007,alone,patient receive alimta cisplatin survive average 12.1 month compare 9.3 month receive cisplatin
+d000.s033.t000,treatment,patient non-small cell lung_cancer alimta effective comparator
+d000.s033.t001,patient,treatment non-small cell lung_cancer alimta effective comparator
+d000.s033.t002,cell,treatment patient non-small lung_cancer alimta effective comparator
+d000.s033.t003,lung_cancer,treatment patient non-small cell alimta effective comparator
+d000.s033.t004,as,treatment patient non-small cell lung_cancer alimta effective comparator
+d000.s033.t005,effective,treatment patient non-small cell lung_cancer alimta comparator
+d000.s033.t006,as,treatment patient non-small cell lung_cancer alimta effective comparator
+d000.s034.t000,patient,receive chemotherapy past average survival time 8.3 month alimta compare 7.9 month docetaxel
+d000.s034.t001,receive,patient chemotherapy past average survival time 8.3 month alimta compare 7.9 month docetaxel
+d000.s034.t002,chemotherapy,patient receive past average survival time 8.3 month alimta compare 7.9 month docetaxel
+d000.s034.t003,past,patient receive chemotherapy average survival time 8.3 month alimta compare 7.9 month docetaxel
+d000.s034.t004,average,patient receive chemotherapy past survival time 8.3 month alimta compare 7.9 month docetaxel
+d000.s034.t005,survival,patient receive chemotherapy past average time 8.3 month alimta compare 7.9 month docetaxel
+d000.s034.t006,time,patient receive chemotherapy past average survival 8.3 month alimta compare 7.9 month docetaxel
+d000.s034.t007,month,patient receive chemotherapy past average survival time 8.3 alimta compare 7.9 month docetaxel
+d000.s034.t008,compare,patient receive chemotherapy past average survival time 8.3 month alimta 7.9 month docetaxel
+d000.s034.t009,month,patient receive chemotherapy past average survival time 8.3 alimta compare 7.9 month docetaxel
+d000.s035.t000,patient,receive chemotherapy past average survival time 10.3 month group
+d000.s035.t001,not,patient receive chemotherapy past average survival time 10.3 month group
+d000.s035.t002,receive,patient chemotherapy past average survival time 10.3 month group
+d000.s035.t003,chemotherapy,patient receive past average survival time 10.3 month group
+d000.s035.t004,past,patient receive chemotherapy average survival time 10.3 month group
+d000.s035.t005,average,patient receive chemotherapy past survival time 10.3 month group
+d000.s035.t006,survival,patient receive chemotherapy past average time 10.3 month group
+d000.s035.t007,time,patient receive chemotherapy past average survival 10.3 month group
+d000.s035.t008,month,patient receive chemotherapy past average survival time 10.3 group
+d000.s035.t009,group,patient receive chemotherapy past average survival time 10.3 month
+d000.s036.t000,however,study patient whose cancer affect squamous_cell long survival time receive alimta receive comparator
+d000.s036.t001,study,however patient whose cancer affect squamous_cell long survival time receive alimta receive comparator
+d000.s036.t002,patient,however study whose cancer affect squamous_cell long survival time receive alimta receive comparator
+d000.s036.t003,cancer,however study patient whose affect squamous_cell long survival time receive alimta receive comparator
+d000.s036.t004,not,however study patient whose cancer affect squamous_cell long survival time receive alimta receive comparator
+d000.s036.t005,affect,however study patient whose cancer squamous_cell long survival time receive alimta receive comparator
+d000.s036.t006,squamous_cell,however study patient whose cancer affect long survival time receive alimta receive comparator
+d000.s036.t007,have,however study patient whose cancer affect squamous_cell long survival time receive alimta receive comparator
+d000.s036.t008,long,however study patient whose cancer affect squamous_cell survival time receive alimta receive comparator
+d000.s036.t009,survival,however study patient whose cancer affect squamous_cell long time receive alimta receive comparator
+d000.s036.t010,time,however study patient whose cancer affect squamous_cell long survival receive alimta receive comparator
+d000.s037.t000,contrast,patient whose cancer affect squamous_cell short survival time receive alimta
+d000.s037.t001,patient,contrast whose cancer affect squamous_cell short survival time receive alimta
+d000.s037.t002,cancer,contrast patient whose affect squamous_cell short survival time receive alimta
+d000.s037.t003,affect,contrast patient whose cancer squamous_cell short survival time receive alimta
+d000.s037.t004,squamous_cell,contrast patient whose cancer affect short survival time receive alimta
+d000.s037.t005,have,contrast patient whose cancer affect squamous_cell short survival time receive alimta
+d000.s037.t006,short,contrast patient whose cancer affect squamous_cell survival time receive alimta
+d000.s037.t007,survival,contrast patient whose cancer affect squamous_cell short time receive alimta
+d000.s037.t008,time,contrast patient whose cancer affect squamous_cell short survival receive alimta
+d001.s000.t000,mathematical,kalgebra calculator base content markup mathml language
+d001.s000.t001,base,kalgebra mathematical calculator content markup mathml language
+d001.s000.t002,markup,kalgebra mathematical calculator base content mathml language
+d001.s001.t000,nowadays,capable make simple mathml operation arithmetic logical representate 2d 3d graph
+d001.s001.t001,capable,nowadays make simple mathml operation arithmetic logical representate 2d 3d graph
+d001.s001.t002,make,nowadays capable simple mathml operation arithmetic logical representate 2d 3d graph
+d001.s001.t003,simple,nowadays capable make mathml operation arithmetic logical representate 2d 3d graph
+d001.s001.t004,operation,nowadays capable make simple mathml arithmetic logical representate 2d 3d graph
+d001.s001.t005,arithmetic,nowadays capable make simple mathml operation logical representate 2d 3d graph
+d001.s001.t006,3d,nowadays capable make simple mathml operation arithmetic logical representate 2d graph
+d001.s001.t007,graph,nowadays capable make simple mathml operation arithmetic logical representate 2d 3d
+d001.s002.t000,actually,necessary know mathml use kalgebra
+d001.s002.t001,not,actually necessary know mathml use kalgebra
+d001.s002.t002,necessary,actually know mathml use kalgebra
+d001.s002.t003,know,actually necessary mathml use kalgebra
+d001.s002.t004,use,actually necessary know mathml kalgebra
+d001.s003.t000,base,kalgebra mathml graph calculator
+d001.s003.t001,graph,kalgebra mathml base calculator
+d001.s004.t000,initially,although mathml orient use everyone little mathematical knowledge
+d001.s004.t001,orient,although initially mathml use everyone little mathematical knowledge
+d001.s004.t002,now,although initially mathml orient use everyone little mathematical knowledge
+d001.s004.t003,use,although initially mathml orient everyone little mathematical knowledge
+d001.s004.t004,little,although initially mathml orient use everyone mathematical knowledge
+d001.s004.t005,mathematical,although initially mathml orient use everyone little knowledge
+d001.s004.t006,knowledge,although initially mathml orient use everyone little mathematical
+d001.s005.t000,here,screenshot kalgebra main window
+d001.s005.t001,main,screenshot kalgebra window
+d001.s005.t002,window,screenshot kalgebra main
+d001.s006.t000,main,kalgebra window
+d001.s006.t001,window,kalgebra main
+d001.s007.t000,main,kalgebra window consist console tab 2d graph tab 3d graph tab dictionary tab
+d001.s007.t001,window,kalgebra main consist console tab 2d graph tab 3d graph tab dictionary tab
+d001.s007.t002,consist,kalgebra main window console tab 2d graph tab 3d graph tab dictionary tab
+d001.s007.t003,console,kalgebra main window consist tab 2d graph tab 3d graph tab dictionary tab
+d001.s007.t004,graph,kalgebra main window consist console tab 2d tab 3d graph tab dictionary tab
+d001.s007.t005,3d,kalgebra main window consist console tab 2d graph tab graph tab dictionary tab
+d001.s007.t006,graph,kalgebra main window consist console tab 2d tab 3d graph tab dictionary tab
+d001.s007.t007,dictionary,kalgebra main window consist console tab 2d graph tab 3d graph tab tab
+d001.s008.t000,below,tab find input field type function calculation
+d001.s008.t001,find,tab input field type function calculation
+d001.s008.t002,input,tab find field type function calculation
+d001.s008.t003,field,tab find input type function calculation
+d001.s008.t004,type,tab find input field function calculation
+d001.s008.t005,function,tab find input field type calculation
+d001.s008.t006,do,tab find input field type function calculation
+d001.s008.t007,calculation,tab find input field type function
+d001.s009.t000,want,understand work best thing realize input convert mathml although necessary know mathml
+d001.s009.t001,understand,want work best thing realize input convert mathml although necessary know mathml
+d001.s009.t002,work,want understand best thing realize input convert mathml although necessary know mathml
+d001.s009.t003,best,want understand work thing realize input convert mathml although necessary know mathml
+d001.s009.t004,thing,want understand work best realize input convert mathml although necessary know mathml
+d001.s009.t005,do,want understand work best thing realize input convert mathml although necessary know mathml
+d001.s009.t006,realize,want understand work best thing input convert mathml although necessary know mathml
+d001.s009.t007,input,want understand work best thing realize convert mathml although necessary know mathml
+d001.s009.t008,convert,want understand work best thing realize input mathml although necessary know mathml
+d001.s009.t009,not,want understand work best thing realize input convert mathml although necessary know mathml
+d001.s009.t010,necessary,want understand work best thing realize input convert mathml although know mathml
+d001.s009.t011,know,want understand work best thing realize input convert mathml although necessary mathml
+d001.s010.t000,base,i syntax basically common_sense hard anyone
+d001.s010.t001,basically,i base syntax common_sense hard anyone
+d001.s010.t002,common_sense,i base syntax basically hard anyone
+d001.s010.t003,not,i base syntax basically common_sense hard anyone
+d001.s010.t004,hard,i base syntax basically common_sense anyone
+d001.s011.t000,look,i closely maximum maple syntax look similar
+d001.s011.t001,closely,i look maximum maple syntax look similar
+d001.s011.t002,look,i closely maximum maple syntax look similar
+d001.s011.t003,very,i look closely maximum maple syntax look similar
+d001.s011.t004,similar,i look closely maximum maple syntax look
+d001.s012.t000,addition,subtraction multiplication division
+d001.s012.t001,subtraction,addition multiplication division
+d001.s012.t002,multiplication,addition subtraction division
+d001.s012.t003,division,addition subtraction multiplication
+d001.s013.t000,power,** use
+d001.s013.t001,use,** power
+d001.s014.t000,also,possible use unicode character
+d001.s014.t001,possible,also use unicode character
+d001.s014.t002,use,also possible unicode character
+d001.s015.t000,power,one way make root
+d001.s015.t001,way,power one make root
+d001.s015.t002,make,power one way root
+d001.s015.t003,root,power one way make
+d001.s015.t004,too,power one way make root
+d001.s016.t000,way,-gt specify bounded variable function
+d001.s016.t001,specify,-gt way bounded variable function
+d001.s016.t002,bounded,-gt way specify variable function
+d001.s016.t003,variable,-gt way specify bounded function
+d001.s016.t004,function,-gt way specify bounded variable
+d001.s017.t000,use,specify high priority
+d001.s017.t001,specify,use high priority
+d001.s017.t002,high,use specify priority
+d001.s017.t003,priority,use specify high
+d001.s018.t000,parser,abc(params) find function check abc operator
+d001.s018.t001,find,abc(params) parser function check abc operator
+d001.s018.t002,function,abc(params) parser find check abc operator
+d001.s018.t003,check,abc(params) parser find function abc operator
+d001.s018.t004,operator,abc(params) parser find function check abc
+d001.s019.t000,treat,operator treat user function
+d001.s019.t001,operator,treat treat user function
+d001.s019.t002,not,treat operator treat user function
+d001.s019.t003,treat,operator treat user function
+d001.s019.t004,user,treat operator treat function
+d001.s019.t005,function,treat operator treat user
+d001.s020.t000,use,define variable value
+d001.s020.t001,define,use variable value
+d001.s020.t002,value,use define variable
+d001.s021.t000,condition,piecewise definition
+d001.s021.t001,definition,piecewise condition
+d001.s022.t000,way,piecewise define conditional operation kalgebra
+d001.s022.t001,define,piecewise way conditional operation kalgebra
+d001.s022.t002,conditional,piecewise way define operation kalgebra
+d001.s022.t003,operation,piecewise way define conditional kalgebra
+d001.s023.t000,introduce,condition use condition only_if true find without condition enter last instance
+d001.s023.t001,condition,introduce use condition only_if true find without condition enter last instance
+d001.s023.t002,use,introduce condition condition only_if true find without condition enter last instance
+d001.s023.t003,condition,introduce use condition only_if true find without condition enter last instance
+d001.s023.t004,only_if,introduce condition use condition true find without condition enter last instance
+d001.s023.t005,true,introduce condition use condition only_if find without condition enter last instance
+d001.s023.t006,find,introduce condition use condition only_if true without condition enter last instance
+d001.s023.t007,condition,introduce use condition only_if true find without condition enter last instance
+d001.s023.t008,enter,introduce condition use condition only_if true find without condition last instance
+d001.s023.t009,last,introduce condition use condition only_if true find without condition enter instance
+d001.s023.t010,instance,introduce condition use condition only_if true find without condition enter last
+d001.s025.t000,use,define container
+d001.s025.t001,define,use container
+d001.s026.t000,mainly,useful work piecewise
+d001.s026.t001,useful,mainly work piecewise
+d001.s026.t002,work,mainly useful piecewise
+d001.s027.t000,now,could ask i user mind mathml
+d001.s027.t001,ask,could i user mind mathml
+d001.s027.t002,user,could ask i mind mathml
+d001.s028.t000,easy,operate function like cos sin trigonometric function sum product
+d001.s028.t001,operate,easy function like cos sin trigonometric function sum product
+d001.s028.t002,function,easy operate like cos sin trigonometric function sum product
+d001.s028.t003,cos,easy operate function like sin trigonometric function sum product
+d001.s028.t004,sin,easy operate function like cos trigonometric function sum product
+d001.s028.t005,other,easy operate function like cos sin trigonometric function sum product
+d001.s028.t006,trigonometric,easy operate function like cos sin function sum product
+d001.s028.t007,function,easy operate like cos sin trigonometric function sum product
+d001.s028.t008,sum,easy operate function like cos sin trigonometric function product
+d001.s028.t009,product,easy operate function like cos sin trigonometric function sum
+d001.s029.t000,not,matter kind
+d001.s029.t001,matter,kind
+d001.s029.t002,kind,matter
+d001.s030.t000,use,plus times everything operator
+d001.s030.t001,plus,use times everything operator
+d001.s030.t002,times,use plus everything operator
+d001.s030.t003,have,use plus times everything operator
+d001.s030.t004,operator,use plus times everything
+d001.s031.t000,useful,kalgebra console calculator
+d001.s032.t000,there,list declare variable
+d001.s032.t001,have,list declare variable
+d001.s032.t002,list,declare variable
+d001.s032.t003,variable,list declare
+d001.s033.t000,see,double click dialog let change value way trick log
+d001.s033.t001,let,double click see dialog change value way trick log
+d001.s033.t002,change,double click see dialog let value way trick log
+d001.s033.t003,value,double click see dialog let change way trick log
+d001.s033.t004,just,double click see dialog let change value way trick log
+d001.s033.t005,way,double click see dialog let change value trick log
+d001.s033.t006,trick,double click see dialog let change value way log
+d001.s033.t007,log,double click see dialog let change value way trick
+d001.s034.t000,time,every enter expression variable value change last result
+d001.s034.t001,enter,every time expression variable value change last result
+d001.s034.t002,expression,every time enter variable value change last result
+d001.s034.t003,variable,every time enter expression value change last result
+d001.s034.t004,value,every time enter expression variable change last result
+d001.s034.t005,change,every time enter expression variable value last result
+d001.s034.t006,last,every time enter expression variable value change result
+d001.s034.t007,result,every time enter expression variable value change last
+d001.s035.t000,new,ctrl n window
+d001.s035.t001,window,ctrl n new
+d001.s036.t000,log,flush
+d001.s037.t000,load,ctrl l script
+d001.s038.t000,execute,instruction file sequentially
+d001.s038.t001,instruction,execute file sequentially
+d001.s038.t002,file,execute instruction sequentially
+d001.s038.t003,sequentially,execute instruction file
+d001.s039.t000,nice,want define library resume previous work
+d001.s039.t001,want,nice define library resume previous work
+d001.s039.t002,define,nice want library resume previous work
+d001.s039.t003,library,nice want define resume previous work
+d001.s039.t004,resume,nice want define library previous work
+d001.s039.t005,previous,nice want define library resume work
+d001.s039.t006,work,nice want define library resume previous
+d001.s040.t000,save,ctrl g script
+d001.s041.t000,save,instruction type since session begin able reuse
+d001.s041.t001,instruction,save type since session begin able reuse
+d001.s041.t002,type,save instruction since session begin able reuse
+d001.s041.t003,begin,save instruction type since session able reuse
+d001.s041.t004,able,save instruction type since session begin reuse
+d001.s041.t005,reuse,save instruction type since session begin able
+d001.s042.t000,generate,text_file easy fix use text_editor like kate
+d001.s042.t001,text_file,generate easy fix use text_editor like kate
+d001.s042.t002,easy,generate text_file fix use text_editor like kate
+d001.s042.t003,fix,generate text_file easy use text_editor like kate
+d001.s042.t004,use,generate text_file easy fix text_editor like kate
+d001.s042.t005,text_editor,generate text_file easy fix use like kate
+d001.s043.t000,save,ctrl log
+d001.s043.t001,log,ctrl save
+d001.s044.t000,save,log result html file able print publish
+d001.s044.t001,log,save result html file able print publish
+d001.s044.t002,result,save log html file able print publish
+d001.s044.t003,html,save log result file able print publish
+d001.s044.t004,able,save log result html file print publish
+d001.s044.t005,print,save log result html file able publish
+d001.s044.t006,publish,save log result html file able print
+d001.s045.t000,quit,ctrl q
+d001.s046.t000,program,shut
+d001.s046.t001,down,shut program
+d001.s047.t000,add,new 2d graph kalgebra go 2d graph tab click add tab add new function
+d001.s047.t001,new,add 2d graph kalgebra go 2d graph tab click add tab add new function
+d001.s047.t002,graph,add new 2d kalgebra go 2d graph tab click add tab add new function
+d001.s047.t003,do,add new 2d graph kalgebra go 2d graph tab click add tab add new function
+d001.s047.t004,go,add new 2d graph kalgebra 2d graph tab click add tab add new function
+d001.s047.t005,graph,add new 2d kalgebra go 2d graph tab click add tab add new function
+d001.s047.t006,add,new 2d graph kalgebra go 2d graph tab click add tab add new function
+d001.s047.t007,add,new 2d graph kalgebra go 2d graph tab click add tab add new function
+d001.s047.t008,new,add 2d graph kalgebra go 2d graph tab click add tab add new function
+d001.s047.t009,function,add new 2d graph kalgebra go 2d graph tab click add tab add new
+d001.s048.t000,then,focus go input text box type function
+d001.s048.t001,focus,go input text box type function
+d001.s048.t002,input,focus go text box type function
+d001.s048.t003,text,focus go input box type function
+d001.s048.t004,box,focus go input text type function
+d001.s048.t005,type,focus go input text box function
+d001.s048.t006,function,focus go input text box type
+d001.s049.t000,want,use typical f(x) function necessary specify
+d001.s049.t001,use,want typical f(x) function necessary specify
+d001.s049.t002,typical,want use f(x) function necessary specify
+d001.s049.t003,not,want use typical f(x) function necessary specify
+d001.s049.t004,necessary,want use typical f(x) function specify
+d001.s049.t005,specify,want use typical f(x) function necessary
+d001.s050.t000,enter,function click ok button display graph main window
+d001.s050.t001,function,enter click ok button display graph main window
+d001.s050.t002,ok,enter function click button display graph main window
+d001.s050.t003,display,enter function click ok button graph main window
+d001.s050.t004,graph,enter function click ok button display main window
+d001.s050.t005,main,enter function click ok button display graph window
+d001.s050.t006,window,enter function click ok button display graph main
+d001.s051.t000,set,several graph view
+d001.s051.t001,several,set graph view
+d001.s051.t002,graph,set several view
+d001.s051.t003,same,set several graph view
+d001.s051.t004,view,set several graph
+d001.s052.t000,just,use add button list mode
+d001.s052.t001,use,add button list mode
+d001.s052.t002,add,use button list mode
+d001.s052.t003,list,use add button mode
+d001.s052.t004,mode,use add button list
+d001.s053.t000,set,graph color
+d001.s053.t001,graph,set color
+d001.s053.t002,color,set graph
+d002.s000.t000,foundation,recently involve organise conference deal critical challenge
+d002.s000.t001,recently,foundation involve organise conference deal critical challenge
+d002.s000.t002,involve,foundation recently organise conference deal critical challenge
+d002.s000.t003,organise,foundation recently involve conference deal critical challenge
+d002.s000.t004,conference,foundation recently involve organise deal critical challenge
+d002.s000.t005,deal,foundation recently involve organise conference critical challenge
+d002.s000.t006,critical,foundation recently involve organise conference deal challenge
+d002.s000.t007,challenge,foundation recently involve organise conference deal critical
+d002.s001.t000,participant,main interest_group attend debate issue role key actor include public authority social partner voluntary community organisation as_well service user
+d002.s001.t001,main,participant interest_group attend debate issue role key actor include public authority social partner voluntary community organisation as_well service user
+d002.s001.t002,interest_group,participant main attend debate issue role key actor include public authority social partner voluntary community organisation as_well service user
+d002.s001.t003,attend,participant main interest_group debate issue role key actor include public authority social partner voluntary community organisation as_well service user
+d002.s001.t004,debate,participant main interest_group attend issue role key actor include public authority social partner voluntary community organisation as_well service user
+d002.s001.t005,issue,participant main interest_group attend debate role key actor include public authority social partner voluntary community organisation as_well service user
+d002.s001.t006,role,participant main interest_group attend debate issue key actor include public authority social partner voluntary community organisation as_well service user
+d002.s001.t007,key,participant main interest_group attend debate issue role actor include public authority social partner voluntary community organisation as_well service user
+d002.s001.t008,actor,participant main interest_group attend debate issue role key include public authority social partner voluntary community organisation as_well service user
+d002.s001.t009,include,participant main interest_group attend debate issue role key actor public authority social partner voluntary community organisation as_well service user
+d002.s001.t010,public,participant main interest_group attend debate issue role key actor include authority social partner voluntary community organisation as_well service user
+d002.s001.t011,authority,participant main interest_group attend debate issue role key actor include public social partner voluntary community organisation as_well service user
+d002.s001.t012,social,participant main interest_group attend debate issue role key actor include public authority partner voluntary community organisation as_well service user
+d002.s001.t013,voluntary,participant main interest_group attend debate issue role key actor include public authority social partner community organisation as_well service user
+d002.s001.t014,community,participant main interest_group attend debate issue role key actor include public authority social partner voluntary organisation as_well service user
+d002.s001.t015,organisation,participant main interest_group attend debate issue role key actor include public authority social partner voluntary community as_well service user
+d002.s001.t016,as_well,participant main interest_group attend debate issue role key actor include public authority social partner voluntary community organisation service user
+d002.s001.t017,service,participant main interest_group attend debate issue role key actor include public authority social partner voluntary community organisation as_well user
+d002.s001.t018,user,participant main interest_group attend debate issue role key actor include public authority social partner voluntary community organisation as_well service
+d002.s002.t000,relatively,case report attempt involve user service planning involvement service provision find common
+d002.s002.t001,few,relatively case report attempt involve user service planning involvement service provision find common
+d002.s002.t002,case,relatively report attempt involve user service planning involvement service provision find common
+d002.s002.t003,report,relatively case attempt involve user service planning involvement service provision find common
+d002.s002.t004,attempt,relatively case report involve user service planning involvement service provision find common
+d002.s002.t005,involve,relatively case report attempt user service planning involvement service provision find common
+d002.s002.t006,user,relatively case report attempt involve service planning involvement service provision find common
+d002.s002.t007,service,relatively case report attempt involve user planning involvement service provision find common
+d002.s002.t008,planning,relatively case report attempt involve user service involvement service provision find common
+d002.s002.t009,involvement,relatively case report attempt involve user service planning service provision find common
+d002.s002.t010,service,relatively case report attempt involve user planning involvement service provision find common
+d002.s002.t011,provision,relatively case report attempt involve user service planning involvement service find common
+d002.s002.t012,find,relatively case report attempt involve user service planning involvement service provision common
+d002.s002.t013,more,relatively case report attempt involve user service planning involvement service provision find common
+d002.s002.t014,common,relatively case report attempt involve user service planning involvement service provision find
+d002.s003.t000,note,also take variety different role play public welfare
+d002.s003.t001,also,note take variety different role play public welfare
+d002.s003.t002,variety,note also take different role play public welfare
+d002.s003.t003,different,note also take variety role play public welfare
+d002.s003.t004,role,note also take variety different play public welfare
+d002.s003.t005,play,note also take variety different role public welfare
+d002.s003.t006,public,note also take variety different role play welfare
+d002.s003.t007,welfare,note also take variety different role play public
+d002.s004.t000,foundation,organise together european commission spanish ministry social affairs galician regional government european conference social exclusion major challenge public welfare service
+d002.s004.t001,european,foundation organise together commission spanish ministry social affairs galician regional government european conference social exclusion major challenge public welfare service
+d002.s004.t002,commission,foundation organise together european spanish ministry social affairs galician regional government european conference social exclusion major challenge public welfare service
+d002.s004.t003,spanish,foundation organise together european commission ministry social affairs galician regional government european conference social exclusion major challenge public welfare service
+d002.s004.t004,ministry,foundation organise together european commission spanish social affairs galician regional government european conference social exclusion major challenge public welfare service
+d002.s004.t005,social,foundation organise together european commission spanish ministry affairs galician regional government european conference social exclusion major challenge public welfare service
+d002.s004.t006,affairs,foundation organise together european commission spanish ministry social galician regional government european conference social exclusion major challenge public welfare service
+d002.s004.t007,regional,foundation organise together european commission spanish ministry social affairs galician government european conference social exclusion major challenge public welfare service
+d002.s004.t008,government,foundation organise together european commission spanish ministry social affairs galician regional european conference social exclusion major challenge public welfare service
+d002.s004.t009,european,foundation organise together commission spanish ministry social affairs galician regional government european conference social exclusion major challenge public welfare service
+d002.s004.t010,conference,foundation organise together european commission spanish ministry social affairs galician regional government european social exclusion major challenge public welfare service
+d002.s004.t011,social,foundation organise together european commission spanish ministry affairs galician regional government european conference social exclusion major challenge public welfare service
+d002.s004.t012,exclusion,foundation organise together european commission spanish ministry social affairs galician regional government european conference social major challenge public welfare service
+d002.s004.t013,major,foundation organise together european commission spanish ministry social affairs galician regional government european conference social exclusion challenge public welfare service
+d002.s004.t014,challenge,foundation organise together european commission spanish ministry social affairs galician regional government european conference social exclusion major public welfare service
+d002.s004.t015,public,foundation organise together european commission spanish ministry social affairs galician regional government european conference social exclusion major challenge welfare service
+d002.s004.t016,welfare,foundation organise together european commission spanish ministry social affairs galician regional government european conference social exclusion major challenge public service
+d002.s004.t017,service,foundation organise together european commission spanish ministry social affairs galician regional government european conference social exclusion major challenge public welfare
+d002.s005.t000,foundation,recently publish comparative study part epoc project assess extent direct participation humanise work increase profitability
+d002.s005.t001,recently,foundation publish comparative study part epoc project assess extent direct participation humanise work increase profitability
+d002.s005.t002,publish,foundation recently comparative study part epoc project assess extent direct participation humanise work increase profitability
+d002.s005.t003,comparative,foundation recently publish study part epoc project assess extent direct participation humanise work increase profitability
+d002.s005.t004,study,foundation recently publish comparative part epoc project assess extent direct participation humanise work increase profitability
+d002.s005.t005,part,foundation recently publish comparative study epoc project assess extent direct participation humanise work increase profitability
+d002.s005.t006,project,foundation recently publish comparative study part epoc assess extent direct participation humanise work increase profitability
+d002.s005.t007,assess,foundation recently publish comparative study part epoc project extent direct participation humanise work increase profitability
+d002.s005.t008,extent,foundation recently publish comparative study part epoc project assess direct participation humanise work increase profitability
+d002.s005.t009,direct,foundation recently publish comparative study part epoc project assess extent participation humanise work increase profitability
+d002.s005.t010,participation,foundation recently publish comparative study part epoc project assess extent direct humanise work increase profitability
+d002.s005.t011,humanise,foundation recently publish comparative study part epoc project assess extent direct participation work increase profitability
+d002.s005.t012,work,foundation recently publish comparative study part epoc project assess extent direct participation humanise increase profitability
+d002.s005.t013,increase,foundation recently publish comparative study part epoc project assess extent direct participation humanise work profitability
+d002.s005.t014,profitability,foundation recently publish comparative study part epoc project assess extent direct participation humanise work increase
+d002.s006.t000,study,base personal interview senior official social partner representative national level peak organisation fifteen european country
+d002.s006.t001,base,study personal interview senior official social partner representative national level peak organisation fifteen european country
+d002.s006.t002,personal,study base interview senior official social partner representative national level peak organisation fifteen european country
+d002.s006.t003,interview,study base personal senior official social partner representative national level peak organisation fifteen european country
+d002.s006.t004,senior,study base personal interview official social partner representative national level peak organisation fifteen european country
+d002.s006.t005,official,study base personal interview senior social partner representative national level peak organisation fifteen european country
+d002.s006.t006,social,study base personal interview senior official partner representative national level peak organisation fifteen european country
+d002.s006.t007,representative,study base personal interview senior official social partner national level peak organisation fifteen european country
+d002.s006.t008,national,study base personal interview senior official social partner representative level peak organisation fifteen european country
+d002.s006.t009,level,study base personal interview senior official social partner representative national peak organisation fifteen european country
+d002.s006.t010,organisation,study base personal interview senior official social partner representative national level peak fifteen european country
+d002.s006.t011,fifteen,study base personal interview senior official social partner representative national level peak organisation european country
+d002.s006.t012,european,study base personal interview senior official social partner representative national level peak organisation fifteen country
+d002.s006.t013,country,study base personal interview senior official social partner representative national level peak organisation fifteen european
+d002.s007.t000,important,industrial sector metal industry banking sector also include
+d002.s007.t001,industrial,important sector metal industry banking sector also include
+d002.s007.t002,sector,important industrial metal industry banking sector also include
+d002.s007.t003,metal,important industrial sector industry banking sector also include
+d002.s007.t004,industry,important industrial sector metal banking sector also include
+d002.s007.t005,banking,important industrial sector metal industry sector also include
+d002.s007.t006,sector,important industrial metal industry banking sector also include
+d002.s007.t007,also,important industrial sector metal industry banking sector include
+d002.s007.t008,include,important industrial sector metal industry banking sector also
+d002.s008.t000,speaker,key social exclusion conference left right cristina louro employment industrial relations social_affair directorate european commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t001,social,key speaker exclusion conference left right cristina louro employment industrial relations social_affair directorate european commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t002,exclusion,key speaker social conference left right cristina louro employment industrial relations social_affair directorate european commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t003,conference,key speaker social exclusion left right cristina louro employment industrial relations social_affair directorate european commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t004,left,key speaker social exclusion conference right cristina louro employment industrial relations social_affair directorate european commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t005,right,key speaker social exclusion conference left cristina louro employment industrial relations social_affair directorate european commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t006,employment,key speaker social exclusion conference left right cristina louro industrial relations social_affair directorate european commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t007,industrial,key speaker social exclusion conference left right cristina louro employment relations social_affair directorate european commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t008,relations,key speaker social exclusion conference left right cristina louro employment industrial social_affair directorate european commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t009,social_affair,key speaker social exclusion conference left right cristina louro employment industrial relations directorate european commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t010,directorate,key speaker social exclusion conference left right cristina louro employment industrial relations social_affair european commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t011,european,key speaker social exclusion conference left right cristina louro employment industrial relations social_affair directorate commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t012,commission,key speaker social exclusion conference left right cristina louro employment industrial relations social_affair directorate european fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t013,high,key speaker social exclusion conference left right cristina louro employment industrial relations social_affair directorate european commission fernando gome degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t014,committee,key speaker social exclusion conference left right cristina louro employment industrial relations social_affair directorate european commission fernando gome high degree region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t015,member,key speaker social exclusion conference left right cristina louro employment industrial relations social_affair directorate european commission fernando gome high degree committee region barbara weiler european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t016,european,key speaker social exclusion conference left right cristina louro employment industrial relations social_affair directorate commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t017,parliament,key speaker social exclusion conference left right cristina louro employment industrial relations social_affair directorate european commission fernando gome high degree committee region barbara weiler member european josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t018,vice_president,key speaker social exclusion conference left right cristina louro employment industrial relations social_affair directorate european commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble european parliament john carroll economic social committee
+d002.s008.t019,european,key speaker social exclusion conference left right cristina louro employment industrial relations social_affair directorate commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t020,parliament,key speaker social exclusion conference left right cristina louro employment industrial relations social_affair directorate european commission fernando gome high degree committee region barbara weiler member european josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t021,economic,key speaker social exclusion conference left right cristina louro employment industrial relations social_affair directorate european commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll social committee
+d002.s008.t022,social,key speaker exclusion conference left right cristina louro employment industrial relations social_affair directorate european commission fernando gome high degree committee region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s008.t023,committee,key speaker social exclusion conference left right cristina louro employment industrial relations social_affair directorate european commission fernando gome high degree region barbara weiler member european parliament josé marium gil-roble vice_president european parliament john carroll economic social committee
+d002.s009.t000,case_study,national report contain portfolio initiative best present policy practice improve recruitment training development age worker work place community
+d002.s009.t001,national,case_study report contain portfolio initiative best present policy practice improve recruitment training development age worker work place community
+d002.s009.t002,report,case_study national contain portfolio initiative best present policy practice improve recruitment training development age worker work place community
+d002.s009.t003,contain,case_study national report portfolio initiative best present policy practice improve recruitment training development age worker work place community
+d002.s009.t004,portfolio,case_study national report contain initiative best present policy practice improve recruitment training development age worker work place community
+d002.s009.t005,initiative,case_study national report contain portfolio best present policy practice improve recruitment training development age worker work place community
+d002.s009.t006,present,case_study national report contain portfolio initiative best policy practice improve recruitment training development age worker work place community
+d002.s009.t007,policy,case_study national report contain portfolio initiative best present practice improve recruitment training development age worker work place community
+d002.s009.t008,practice,case_study national report contain portfolio initiative best present policy improve recruitment training development age worker work place community
+d002.s009.t009,improve,case_study national report contain portfolio initiative best present policy practice recruitment training development age worker work place community
+d002.s009.t010,recruitment,case_study national report contain portfolio initiative best present policy practice improve training development age worker work place community
+d002.s009.t011,training,case_study national report contain portfolio initiative best present policy practice improve recruitment development age worker work place community
+d002.s009.t012,development,case_study national report contain portfolio initiative best present policy practice improve recruitment training age worker work place community
+d002.s009.t013,age,case_study national report contain portfolio initiative best present policy practice improve recruitment training development worker work place community
+d002.s009.t014,worker,case_study national report contain portfolio initiative best present policy practice improve recruitment training development age work place community
+d002.s009.t015,work,case_study national report contain portfolio initiative best present policy practice improve recruitment training development age worker place community
+d002.s009.t016,place,case_study national report contain portfolio initiative best present policy practice improve recruitment training development age worker work community
+d002.s009.t017,community,case_study national report contain portfolio initiative best present policy practice improve recruitment training development age worker work place
+d002.s010.t000,country,two three initiative select depth case_study
+d002.s010.t001,initiative,country two three select depth case_study
+d002.s010.t002,select,country two three initiative depth case_study
+d002.s010.t003,further,country two three initiative select depth case_study
+d002.s010.t004,depth,country two three initiative select case_study
+d002.s010.t005,case_study,country two three initiative select depth
+d002.s011.t000,case_study,analyse background initiative impact employment pattern work organisation assess benefit problem initiative
+d002.s011.t001,analyse,case_study background initiative impact employment pattern work organisation assess benefit problem initiative
+d002.s011.t002,background,case_study analyse initiative impact employment pattern work organisation assess benefit problem initiative
+d002.s011.t003,initiative,case_study analyse background impact employment pattern work organisation assess benefit problem initiative
+d002.s011.t004,impact,case_study analyse background initiative employment pattern work organisation assess benefit problem initiative
+d002.s011.t005,employment,case_study analyse background initiative impact pattern work organisation assess benefit problem initiative
+d002.s011.t006,pattern,case_study analyse background initiative impact employment work organisation assess benefit problem initiative
+d002.s011.t007,work,case_study analyse background initiative impact employment pattern organisation assess benefit problem initiative
+d002.s011.t008,organisation,case_study analyse background initiative impact employment pattern work assess benefit problem initiative
+d002.s011.t009,assess,case_study analyse background initiative impact employment pattern work organisation benefit problem initiative
+d002.s011.t010,benefit,case_study analyse background initiative impact employment pattern work organisation assess problem initiative
+d002.s011.t011,problem,case_study analyse background initiative impact employment pattern work organisation assess benefit initiative
+d002.s011.t012,initiative,case_study analyse background impact employment pattern work organisation assess benefit problem initiative
+d002.s012.t000,visit,interview key personnel also undertake
+d002.s012.t001,interview,visit key personnel also undertake
+d002.s012.t002,key,visit interview personnel also undertake
+d002.s012.t003,personnel,visit interview key also undertake
+d002.s012.t004,also,visit interview key personnel undertake
+d002.s012.t005,undertake,visit interview key personnel also
+d002.s013.t000,national,study form basis european report synthesise overall practice
+d002.s013.t001,study,national form basis european report synthesise overall practice
+d002.s013.t002,form,national study basis european report synthesise overall practice
+d002.s013.t003,basis,national study form european report synthesise overall practice
+d002.s013.t004,european,national study form basis report synthesise overall practice
+d002.s013.t005,report,national study form basis european synthesise overall practice
+d002.s013.t006,synthesise,national study form basis european report overall practice
+d002.s013.t007,overall,national study form basis european report synthesise practice
+d002.s013.t008,practice,national study form basis european report synthesise overall
+d002.s014.t000,report,casebook initiative publish provide backdrop conference stage autumn
+d002.s014.t001,casebook,report initiative publish provide backdrop conference stage autumn
+d002.s014.t002,initiative,report casebook publish provide backdrop conference stage autumn
+d002.s014.t003,publish,report casebook initiative provide backdrop conference stage autumn
+d002.s014.t004,provide,report casebook initiative publish backdrop conference stage autumn
+d002.s014.t005,conference,report casebook initiative publish provide backdrop stage autumn
+d002.s014.t006,stage,report casebook initiative publish provide backdrop conference autumn
+d002.s014.t007,autumn,report casebook initiative publish provide backdrop conference stage
+d002.s015.t000,foundation,aim document characteristic age barrier job recruitment training analyse cause
+d002.s015.t001,aim,foundation document characteristic age barrier job recruitment training analyse cause
+d002.s015.t002,document,foundation aim characteristic age barrier job recruitment training analyse cause
+d002.s015.t003,characteristic,foundation aim document age barrier job recruitment training analyse cause
+d002.s015.t004,age,foundation aim document characteristic barrier job recruitment training analyse cause
+d002.s015.t005,barrier,foundation aim document characteristic age job recruitment training analyse cause
+d002.s015.t006,job,foundation aim document characteristic age barrier recruitment training analyse cause
+d002.s015.t007,recruitment,foundation aim document characteristic age barrier job training analyse cause
+d002.s015.t008,training,foundation aim document characteristic age barrier job recruitment analyse cause
+d002.s015.t009,analyse,foundation aim document characteristic age barrier job recruitment training cause
+d002.s015.t010,cause,foundation aim document characteristic age barrier job recruitment training analyse
+d002.s016.t000,perspective,social partner also examine particular attention pay proposal remove age barrier
+d002.s016.t001,social,perspective partner also examine particular attention pay proposal remove age barrier
+d002.s016.t002,also,perspective social partner examine particular attention pay proposal remove age barrier
+d002.s016.t003,examine,perspective social partner also particular attention pay proposal remove age barrier
+d002.s016.t004,particular,perspective social partner also examine attention pay proposal remove age barrier
+d002.s016.t005,attention,perspective social partner also examine particular pay proposal remove age barrier
+d002.s016.t006,pay,perspective social partner also examine particular attention proposal remove age barrier
+d002.s016.t007,proposal,perspective social partner also examine particular attention pay remove age barrier
+d002.s016.t008,remove,perspective social partner also examine particular attention pay proposal age barrier
+d002.s016.t009,age,perspective social partner also examine particular attention pay proposal remove barrier
+d002.s016.t010,barrier,perspective social partner also examine particular attention pay proposal remove age
+d002.s017.t000,thirdly,project document assess initiative public private sector combat age barrier especially old worker
+d002.s017.t001,project,thirdly document assess initiative public private sector combat age barrier especially old worker
+d002.s017.t002,assess,thirdly project document initiative public private sector combat age barrier especially old worker
+d002.s017.t003,initiative,thirdly project document assess public private sector combat age barrier especially old worker
+d002.s017.t004,public,thirdly project document assess initiative private sector combat age barrier especially old worker
+d002.s017.t005,private,thirdly project document assess initiative public sector combat age barrier especially old worker
+d002.s017.t006,sector,thirdly project document assess initiative public private combat age barrier especially old worker
+d002.s017.t007,age,thirdly project document assess initiative public private sector combat barrier especially old worker
+d002.s017.t008,barrier,thirdly project document assess initiative public private sector combat age especially old worker
+d002.s017.t009,especially,thirdly project document assess initiative public private sector combat age barrier old worker
+d002.s017.t010,old,thirdly project document assess initiative public private sector combat age barrier especially worker
+d002.s017.t011,worker,thirdly project document assess initiative public private sector combat age barrier especially old
+d002.s018.t000,seek,alternative early retirement redundancy project primarily concern retention reintegrate retrain old worker
+d002.s018.t001,alternative,seek early retirement redundancy project primarily concern retention reintegrate retrain old worker
+d002.s018.t002,early,seek alternative retirement redundancy project primarily concern retention reintegrate retrain old worker
+d002.s018.t003,retirement,seek alternative early redundancy project primarily concern retention reintegrate retrain old worker
+d002.s018.t004,redundancy,seek alternative early retirement project primarily concern retention reintegrate retrain old worker
+d002.s018.t005,project,seek alternative early retirement redundancy primarily concern retention reintegrate retrain old worker
+d002.s018.t006,primarily,seek alternative early retirement redundancy project concern retention reintegrate retrain old worker
+d002.s018.t007,concern,seek alternative early retirement redundancy project primarily retention reintegrate retrain old worker
+d002.s018.t008,retention,seek alternative early retirement redundancy project primarily concern reintegrate retrain old worker
+d002.s018.t009,reintegrate,seek alternative early retirement redundancy project primarily concern retention retrain old worker
+d002.s018.t010,retrain,seek alternative early retirement redundancy project primarily concern retention reintegrate old worker
+d002.s018.t011,old,seek alternative early retirement redundancy project primarily concern retention reintegrate retrain worker
+d002.s018.t012,worker,seek alternative early retirement redundancy project primarily concern retention reintegrate retrain old
+d002.s019.t000,gender,ethnic background worker relate age discrimination examine
+d002.s019.t001,ethnic,gender background worker relate age discrimination examine
+d002.s019.t002,background,gender ethnic worker relate age discrimination examine
+d002.s019.t003,worker,gender ethnic background relate age discrimination examine
+d002.s019.t004,relate,gender ethnic background worker age discrimination examine
+d002.s019.t005,age,gender ethnic background worker relate discrimination examine
+d002.s019.t006,discrimination,gender ethnic background worker relate age examine
+d002.s019.t007,examine,gender ethnic background worker relate age discrimination
+d002.s020.t000,project,also consider initiative combat age discrimination rural_area small medium size enterprise
+d002.s020.t001,also,project consider initiative combat age discrimination rural_area small medium size enterprise
+d002.s020.t002,consider,project also initiative combat age discrimination rural_area small medium size enterprise
+d002.s020.t003,initiative,project also consider combat age discrimination rural_area small medium size enterprise
+d002.s020.t004,age,project also consider initiative combat discrimination rural_area small medium size enterprise
+d002.s020.t005,discrimination,project also consider initiative combat age rural_area small medium size enterprise
+d002.s020.t006,rural_area,project also consider initiative combat age discrimination small medium size enterprise
+d002.s020.t007,small,project also consider initiative combat age discrimination rural_area medium size enterprise
+d002.s020.t008,enterprise,project also consider initiative combat age discrimination rural_area small medium size
+d002.s021.t000,member,seven state cover project belgium france germany greece italy netherland united kingdom
+d002.s021.t001,state,seven member cover project belgium france germany greece italy netherland united kingdom
+d002.s021.t002,cover,seven member state project belgium france germany greece italy netherland united kingdom
+d002.s021.t003,project,seven member state cover belgium france germany greece italy netherland united kingdom
+d002.s021.t004,united,seven member state cover project belgium france germany greece italy netherland kingdom
+d002.s021.t005,kingdom,seven member state cover project belgium france germany greece italy netherland united
+d003.s000.t000,document,summary european public assessment report
+d003.s000.t001,summary,document european public assessment report
+d003.s000.t002,european,document summary public assessment report
+d003.s000.t003,public,document summary european assessment report
+d003.s000.t004,assessment,document summary european public report
+d003.s000.t005,report,document summary european public assessment
+d003.s001.t000,explain,committee medicinal product veterinary use cvmp assess study perform reach recommendation use medicine
+d003.s001.t001,committee,explain medicinal product veterinary use cvmp assess study perform reach recommendation use medicine
+d003.s001.t002,medicinal,explain committee product veterinary use cvmp assess study perform reach recommendation use medicine
+d003.s001.t003,product,explain committee medicinal veterinary use cvmp assess study perform reach recommendation use medicine
+d003.s001.t004,veterinary,explain committee medicinal product use cvmp assess study perform reach recommendation use medicine
+d003.s001.t005,use,explain committee medicinal product veterinary cvmp assess study perform reach recommendation use medicine
+d003.s001.t006,assess,explain committee medicinal product veterinary use cvmp study perform reach recommendation use medicine
+d003.s001.t007,study,explain committee medicinal product veterinary use cvmp assess perform reach recommendation use medicine
+d003.s001.t008,perform,explain committee medicinal product veterinary use cvmp assess study reach recommendation use medicine
+d003.s001.t009,reach,explain committee medicinal product veterinary use cvmp assess study perform recommendation use medicine
+d003.s001.t010,recommendation,explain committee medicinal product veterinary use cvmp assess study perform reach use medicine
+d003.s001.t011,use,explain committee medicinal product veterinary cvmp assess study perform reach recommendation use medicine
+d003.s001.t012,medicine,explain committee medicinal product veterinary use cvmp assess study perform reach recommendation use
+d003.s003.t000,contain,cerenia active substance maropitant available tablet solution injection
+d003.s003.t001,active,cerenia contain substance maropitant available tablet solution injection
+d003.s003.t002,substance,cerenia contain active maropitant available tablet solution injection
+d003.s003.t003,available,cerenia contain active substance maropitant tablet solution injection
+d003.s003.t004,tablet,cerenia contain active substance maropitant available solution injection
+d003.s003.t005,solution,cerenia contain active substance maropitant available tablet injection
+d003.s003.t006,injection,cerenia contain active substance maropitant available tablet solution
+d003.s004.t000,tablet,pale-orange score line side halve
+d003.s004.t001,have,tablet pale-orange score line side halve
+d003.s004.t002,score,tablet pale-orange line side halve
+d003.s004.t003,line,tablet pale-orange score side halve
+d003.s004.t004,side,tablet pale-orange score line halve
+d003.s004.t005,so,tablet pale-orange score line side halve
+d003.s004.t006,halve,tablet pale-orange score line side
+d003.s005.t000,tablet,mark pfizer logo one side letter mpt quantity maropitant side
+d003.s005.t001,mark,tablet pfizer logo one side letter mpt quantity maropitant side
+d003.s005.t002,logo,tablet mark pfizer one side letter mpt quantity maropitant side
+d003.s005.t003,side,tablet mark pfizer logo one letter mpt quantity maropitant side
+d003.s005.t004,letter,tablet mark pfizer logo one side mpt quantity maropitant side
+d003.s005.t005,quantity,tablet mark pfizer logo one side letter mpt maropitant side
+d003.s005.t006,other,tablet mark pfizer logo one side letter mpt quantity maropitant side
+d003.s005.t007,side,tablet mark pfizer logo one letter mpt quantity maropitant side
+d003.s006.t000,use,cerenia
+d003.s007.t000,antiemetic,cerenia mean stop vomit
+d003.s007.t001,mean,cerenia antiemetic stop vomit
+d003.s007.t002,stop,cerenia antiemetic mean vomit
+d003.s007.t003,vomit,cerenia antiemetic mean stop
+d003.s008.t000,use,dog prevent vomit vomit cause chemotherapy medicine use treatment cancer know cause vomit
+d003.s008.t001,dog,use prevent vomit vomit cause chemotherapy medicine use treatment cancer know cause vomit
+d003.s008.t002,prevent,use dog vomit vomit cause chemotherapy medicine use treatment cancer know cause vomit
+d003.s008.t003,vomit,use dog prevent vomit cause chemotherapy medicine use treatment cancer know cause vomit
+d003.s008.t004,vomit,use dog prevent vomit cause chemotherapy medicine use treatment cancer know cause vomit
+d003.s008.t005,cause,use dog prevent vomit vomit chemotherapy medicine use treatment cancer know cause vomit
+d003.s008.t006,chemotherapy,use dog prevent vomit vomit cause medicine use treatment cancer know cause vomit
+d003.s008.t007,medicine,use dog prevent vomit vomit cause chemotherapy use treatment cancer know cause vomit
+d003.s008.t008,use,dog prevent vomit vomit cause chemotherapy medicine use treatment cancer know cause vomit
+d003.s008.t009,treatment,use dog prevent vomit vomit cause chemotherapy medicine use cancer know cause vomit
+d003.s008.t010,cancer,use dog prevent vomit vomit cause chemotherapy medicine use treatment know cause vomit
+d003.s008.t011,know,use dog prevent vomit vomit cause chemotherapy medicine use treatment cancer cause vomit
+d003.s008.t012,cause,use dog prevent vomit vomit chemotherapy medicine use treatment cancer know cause vomit
+d003.s008.t013,vomit,use dog prevent vomit cause chemotherapy medicine use treatment cancer know cause vomit
+d003.s009.t000,combination,supportive measure veterinary treatment special diet cerenia also use treatment vomiting either injection injection follow tablet
+d003.s009.t001,supportive,combination measure veterinary treatment special diet cerenia also use treatment vomiting either injection injection follow tablet
+d003.s009.t002,measure,combination supportive veterinary treatment special diet cerenia also use treatment vomiting either injection injection follow tablet
+d003.s009.t003,other,combination supportive measure veterinary treatment special diet cerenia also use treatment vomiting either injection injection follow tablet
+d003.s009.t004,veterinary,combination supportive measure treatment special diet cerenia also use treatment vomiting either injection injection follow tablet
+d003.s009.t005,treatment,combination supportive measure veterinary special diet cerenia also use treatment vomiting either injection injection follow tablet
+d003.s009.t006,special,combination supportive measure veterinary treatment diet cerenia also use treatment vomiting either injection injection follow tablet
+d003.s009.t007,diet,combination supportive measure veterinary treatment special cerenia also use treatment vomiting either injection injection follow tablet
+d003.s009.t008,also,combination supportive measure veterinary treatment special diet cerenia use treatment vomiting either injection injection follow tablet
+d003.s009.t009,use,combination supportive measure veterinary treatment special diet cerenia also treatment vomiting either injection injection follow tablet
+d003.s009.t010,treatment,combination supportive measure veterinary special diet cerenia also use treatment vomiting either injection injection follow tablet
+d003.s009.t011,vomiting,combination supportive measure veterinary treatment special diet cerenia also use treatment either injection injection follow tablet
+d003.s009.t012,injection,combination supportive measure veterinary treatment special diet cerenia also use treatment vomiting either injection follow tablet
+d003.s009.t013,injection,combination supportive measure veterinary treatment special diet cerenia also use treatment vomiting either injection follow tablet
+d003.s009.t014,follow,combination supportive measure veterinary treatment special diet cerenia also use treatment vomiting either injection injection tablet
+d003.s009.t015,tablet,combination supportive measure veterinary treatment special diet cerenia also use treatment vomiting either injection injection follow
+d003.s010.t000,purpose,cerenia give five day
+d003.s010.t001,give,purpose cerenia five day
+d003.s010.t002,day,purpose cerenia give five
+d003.s012.t000,block,cerenia neurokinin nk1 receptor act central_nervous_system
+d003.s012.t001,receptor,cerenia block neurokinin nk1 act central_nervous_system
+d003.s012.t002,act,cerenia block neurokinin nk1 receptor central_nervous_system
+d003.s012.t003,central_nervous_system,cerenia block neurokinin nk1 receptor act
+d003.s013.t000,study,cerenia
+d003.s014.t000,large_number,study cerenia carry_out either laboratory dog animal patient veterinary practise several european_country usa
+d003.s014.t001,study,large_number cerenia carry_out either laboratory dog animal patient veterinary practise several european_country usa
+d003.s014.t002,carry_out,large_number study cerenia either laboratory dog animal patient veterinary practise several european_country usa
+d003.s014.t003,laboratory,large_number study cerenia carry_out either dog animal patient veterinary practise several european_country usa
+d003.s014.t004,dog,large_number study cerenia carry_out either laboratory animal patient veterinary practise several european_country usa
+d003.s014.t005,patient,large_number study cerenia carry_out either laboratory dog animal veterinary practise several european_country usa
+d003.s014.t006,veterinary,large_number study cerenia carry_out either laboratory dog animal patient practise several european_country usa
+d003.s014.t007,several,large_number study cerenia carry_out either laboratory dog animal patient veterinary practise european_country usa
+d003.s014.t008,european_country,large_number study cerenia carry_out either laboratory dog animal patient veterinary practise several usa
+d003.s015.t000,benefit,cerenia show study
+d003.s015.t001,show,benefit cerenia study
+d003.s015.t002,study,benefit cerenia show
+d003.s016.t000,result,study show cerenia effective placebo less vomiting see dog receive medicine dog receive placebo treatment prevention vomiting
+d003.s016.t001,study,result show cerenia effective placebo less vomiting see dog receive medicine dog receive placebo treatment prevention vomiting
+d003.s016.t002,show,result study cerenia effective placebo less vomiting see dog receive medicine dog receive placebo treatment prevention vomiting
+d003.s016.t003,more,result study show cerenia effective placebo less vomiting see dog receive medicine dog receive placebo treatment prevention vomiting
+d003.s016.t004,effective,result study show cerenia placebo less vomiting see dog receive medicine dog receive placebo treatment prevention vomiting
+d003.s016.t005,placebo,result study show cerenia effective less vomiting see dog receive medicine dog receive placebo treatment prevention vomiting
+d003.s016.t006,less,result study show cerenia effective placebo vomiting see dog receive medicine dog receive placebo treatment prevention vomiting
+d003.s016.t007,vomiting,result study show cerenia effective placebo less see dog receive medicine dog receive placebo treatment prevention vomiting
+d003.s016.t008,see,result study show cerenia effective placebo less vomiting dog receive medicine dog receive placebo treatment prevention vomiting
+d003.s016.t009,dog,result study show cerenia effective placebo less vomiting see receive medicine dog receive placebo treatment prevention vomiting
+d003.s016.t010,receive,result study show cerenia effective placebo less vomiting see dog medicine dog receive placebo treatment prevention vomiting
+d003.s016.t011,medicine,result study show cerenia effective placebo less vomiting see dog receive dog receive placebo treatment prevention vomiting
+d003.s016.t012,dog,result study show cerenia effective placebo less vomiting see receive medicine dog receive placebo treatment prevention vomiting
+d003.s016.t013,receive,result study show cerenia effective placebo less vomiting see dog medicine dog receive placebo treatment prevention vomiting
+d003.s016.t014,placebo,result study show cerenia effective less vomiting see dog receive medicine dog receive placebo treatment prevention vomiting
+d003.s016.t015,treatment,result study show cerenia effective placebo less vomiting see dog receive medicine dog receive placebo prevention vomiting
+d003.s016.t016,prevention,result study show cerenia effective placebo less vomiting see dog receive medicine dog receive placebo treatment vomiting
+d003.s016.t017,vomiting,result study show cerenia effective placebo less see dog receive medicine dog receive placebo treatment prevention vomiting
+d003.s017.t000,treatment,vomiting dog start injection since vomiting animal might able keep tablet might throw intact tablet
+d003.s017.t001,vomiting,treatment dog start injection since vomiting animal might able keep tablet might throw intact tablet
+d003.s017.t002,dog,treatment vomiting start injection since vomiting animal might able keep tablet might throw intact tablet
+d003.s017.t003,start,treatment vomiting dog injection since vomiting animal might able keep tablet might throw intact tablet
+d003.s017.t004,injection,treatment vomiting dog start since vomiting animal might able keep tablet might throw intact tablet
+d003.s017.t005,vomiting,treatment dog start injection since vomiting animal might able keep tablet might throw intact tablet
+d003.s017.t006,animal,treatment vomiting dog start injection since vomiting might able keep tablet might throw intact tablet
+d003.s017.t007,not,treatment vomiting dog start injection since vomiting animal might able keep tablet might throw intact tablet
+d003.s017.t008,able,treatment vomiting dog start injection since vomiting animal might keep tablet might throw intact tablet
+d003.s017.t009,tablet,treatment vomiting dog start injection since vomiting animal might able keep might throw intact tablet
+d003.s017.t010,intact,treatment vomiting dog start injection since vomiting animal might able keep tablet might throw tablet
+d003.s017.t011,tablet,treatment vomiting dog start injection since vomiting animal might able keep might throw intact tablet
+d003.s017.t012,again,treatment vomiting dog start injection since vomiting animal might able keep tablet might throw intact tablet
+d003.s018.t000,follow-up,treatment animal owner administer tablet dog
+d003.s018.t001,treatment,follow-up animal owner administer tablet dog
+d003.s018.t002,owner,follow-up treatment animal administer tablet dog
+d003.s018.t003,administer,follow-up treatment animal owner tablet dog
+d003.s018.t004,tablet,follow-up treatment animal owner administer dog
+d003.s018.t005,dog,follow-up treatment animal owner administer tablet
+d003.s019.t000,also,treatment vomiting together_with supportive measure veterinary therapy address underlie cause vomiting
+d003.s019.t001,treatment,also vomiting together_with supportive measure veterinary therapy address underlie cause vomiting
+d003.s019.t002,vomiting,also treatment together_with supportive measure veterinary therapy address underlie cause vomiting
+d003.s019.t003,only,also treatment vomiting together_with supportive measure veterinary therapy address underlie cause vomiting
+d003.s019.t004,together_with,also treatment vomiting supportive measure veterinary therapy address underlie cause vomiting
+d003.s019.t005,other,also treatment vomiting together_with supportive measure veterinary therapy address underlie cause vomiting
+d003.s019.t006,supportive,also treatment vomiting together_with measure veterinary therapy address underlie cause vomiting
+d003.s019.t007,measure,also treatment vomiting together_with supportive veterinary therapy address underlie cause vomiting
+d003.s019.t008,other,also treatment vomiting together_with supportive measure veterinary therapy address underlie cause vomiting
+d003.s019.t009,veterinary,also treatment vomiting together_with supportive measure therapy address underlie cause vomiting
+d003.s019.t010,therapy,also treatment vomiting together_with supportive measure veterinary address underlie cause vomiting
+d003.s019.t011,address,also treatment vomiting together_with supportive measure veterinary therapy underlie cause vomiting
+d003.s019.t012,underlie,also treatment vomiting together_with supportive measure veterinary therapy address cause vomiting
+d003.s019.t013,cause,also treatment vomiting together_with supportive measure veterinary therapy address underlie vomiting
+d003.s019.t014,vomiting,also treatment together_with supportive measure veterinary therapy address underlie cause vomiting
+d003.s020.t000,risk,associate cerenia
+d003.s020.t001,associate,risk cerenia
+d003.s021.t000,generally,cerenia well tolerate administer daily dosage time recommend dose extended period_of_time time recommend maximum duration treatment
+d003.s021.t001,well,cerenia generally tolerate administer daily dosage time recommend dose extended period_of_time time recommend maximum duration treatment
+d003.s021.t002,tolerate,cerenia generally well administer daily dosage time recommend dose extended period_of_time time recommend maximum duration treatment
+d003.s021.t003,administer,cerenia generally well tolerate daily dosage time recommend dose extended period_of_time time recommend maximum duration treatment
+d003.s021.t004,daily,cerenia generally well tolerate administer dosage time recommend dose extended period_of_time time recommend maximum duration treatment
+d003.s021.t005,dosage,cerenia generally well tolerate administer daily time recommend dose extended period_of_time time recommend maximum duration treatment
+d003.s021.t006,time,cerenia generally well tolerate administer daily dosage recommend dose extended period_of_time time recommend maximum duration treatment
+d003.s021.t007,recommend,cerenia generally well tolerate administer daily dosage time dose extended period_of_time time recommend maximum duration treatment
+d003.s021.t008,dose,cerenia generally well tolerate administer daily dosage time recommend extended period_of_time time recommend maximum duration treatment
+d003.s021.t009,extended,cerenia generally well tolerate administer daily dosage time recommend dose period_of_time time recommend maximum duration treatment
+d003.s021.t010,period_of_time,cerenia generally well tolerate administer daily dosage time recommend dose extended time recommend maximum duration treatment
+d003.s021.t011,time,cerenia generally well tolerate administer daily dosage recommend dose extended period_of_time time recommend maximum duration treatment
+d003.s021.t012,maximum,cerenia generally well tolerate administer daily dosage time recommend dose extended period_of_time time recommend duration treatment
+d003.s021.t013,duration,cerenia generally well tolerate administer daily dosage time recommend dose extended period_of_time time recommend maximum treatment
+d003.s021.t014,treatment,cerenia generally well tolerate administer daily dosage time recommend dose extended period_of_time time recommend maximum duration
+d003.s022.t000,precaution,person give medicine come_into contact animal
+d003.s022.t001,person,precaution give medicine come_into contact animal
+d003.s022.t002,give,precaution person medicine come_into contact animal
+d003.s022.t003,medicine,precaution person give come_into contact animal
+d003.s022.t004,come_into,precaution person give medicine contact animal
+d003.s022.t005,contact,precaution person give medicine come_into animal
+d003.s022.t006,animal,precaution person give medicine come_into contact
+d003.s023.t000,not,cerenia represent particular risk people
+d003.s023.t001,represent,cerenia particular risk people
+d003.s023.t002,particular,cerenia represent risk people
+d003.s023.t003,risk,cerenia represent particular people
+d003.s023.t004,people,cerenia represent particular risk

@@ -1,0 +1,456 @@
+id,target_word,context_string
+d000.s000.t000,refer,oct. editorial ill homeless research six colleague report sept. issue journal american medical association
+d000.s000.t001,research,oct. editorial ill homeless refer six colleague report sept. issue journal american medical association
+d000.s000.t002,report,oct. editorial ill homeless refer research six colleague sept. issue journal american medical association
+d000.s001.t000,comment,imply discover principal cause homelessness find large number mentally ill substance-abusing people homeless population
+d000.s001.t001,imply,comment discover principal cause homelessness find large number mentally ill substance-abusing people homeless population
+d000.s001.t002,discover,comment imply principal cause homelessness find large number mentally ill substance-abusing people homeless population
+d000.s001.t003,cause,comment imply discover principal homelessness find large number mentally ill substance-abusing people homeless population
+d000.s001.t004,find,comment imply discover principal cause homelessness large number mentally ill substance-abusing people homeless population
+d000.s002.t000,make,statement
+d000.s002.t001,statement,make
+d000.s003.t000,become,clear mentally ill people alcoholic homeless
+d000.s004.t000,cause,homelessness poorly understand complex individual case
+d000.s004.t001,understand,cause homelessness poorly complex individual case
+d000.s005.t000,quote,research emphasize high prevalance mental illness alcoholism
+d000.s005.t001,emphasize,quote research high prevalance mental illness alcoholism
+d000.s006.t000,note,homeless people examine multitude physical disorder addition psychiatric problem substance abuse
+d000.s006.t001,people,note homeless examine multitude physical disorder addition psychiatric problem substance abuse
+d000.s006.t002,examine,note homeless people multitude physical disorder addition psychiatric problem substance abuse
+d000.s006.t003,have,note homeless people examine multitude physical disorder addition psychiatric problem substance abuse
+d000.s006.t004,multitude,note homeless people examine physical disorder addition psychiatric problem substance abuse
+d000.s007.t000,suffer,malnutrition chest disease cardiovascular disorder skin problem infectious disease aftereffect assault rape
+d000.s008.t000,people,homeless lack safety privacy shelter also lack elementary necessity nutrition cleanliness basic health care
+d000.s008.t001,lack,homeless people safety privacy shelter also lack elementary necessity nutrition cleanliness basic health care
+d000.s008.t002,shelter,homeless people lack safety privacy also lack elementary necessity nutrition cleanliness basic health care
+d000.s008.t003,lack,homeless people safety privacy shelter also lack elementary necessity nutrition cleanliness basic health care
+d000.s008.t004,necessity,homeless people lack safety privacy shelter also lack elementary nutrition cleanliness basic health care
+d000.s009.t000,point_out,recent report institute medicine certain health problem may predispose person homelessness may consequence third category compose disorder whose treatment difficult impossible person lack adequate shelter
+d000.s009.t001,problem,recent report institute medicine point_out certain health may predispose person homelessness may consequence third category compose disorder whose treatment difficult impossible person lack adequate shelter
+d000.s009.t002,predispose,recent report institute medicine point_out certain health problem may person homelessness may consequence third category compose disorder whose treatment difficult impossible person lack adequate shelter
+d000.s009.t003,person,recent report institute medicine point_out certain health problem may predispose homelessness may consequence third category compose disorder whose treatment difficult impossible person lack adequate shelter
+d000.s009.t004,category,recent report institute medicine point_out certain health problem may predispose person homelessness may consequence third compose disorder whose treatment difficult impossible person lack adequate shelter
+d000.s009.t005,compose,recent report institute medicine point_out certain health problem may predispose person homelessness may consequence third category disorder whose treatment difficult impossible person lack adequate shelter
+d000.s009.t006,lack,recent report institute medicine point_out certain health problem may predispose person homelessness may consequence third category compose disorder whose treatment difficult impossible person adequate shelter
+d000.s009.t007,shelter,recent report institute medicine point_out certain health problem may predispose person homelessness may consequence third category compose disorder whose treatment difficult impossible person lack adequate
+d000.s010.t000,interaction,health homelessness complex defy sweeping generalization cause effect
+d000.s010.t001,defy,interaction health homelessness complex sweeping generalization cause effect
+d000.s010.t002,generalization,interaction health homelessness complex defy sweeping cause effect
+d000.s011.t000,look_to,future prevent homelessness important objective
+d000.s011.t001,prevent,look_to future homelessness important objective
+d000.s012.t000,require,develop much sophisticated understanding dynamics homelessness currently possess understanding develop careful study research
+d000.s012.t001,develop,require much sophisticated understanding dynamics homelessness currently possess understanding develop careful study research
+d000.s012.t002,understanding,require develop much sophisticated dynamics homelessness currently possess understanding develop careful study research
+d000.s012.t003,possess,require develop much sophisticated understanding dynamics homelessness currently understanding develop careful study research
+d000.s012.t004,develop,require much sophisticated understanding dynamics homelessness currently possess understanding develop careful study research
+d000.s014.t000,study,tulane prof. jame wright say homelessness due complex array problem common thread poverty
+d000.s014.t001,say,study tulane prof. jame wright homelessness due complex array problem common thread poverty
+d000.s015.t000,study,show nearly homeless population make_up woman child homeless exhibit combination drug alcohol mental problem
+d000.s015.t001,show,study nearly homeless population make_up woman child homeless exhibit combination drug alcohol mental problem
+d000.s015.t002,make_up,study show nearly homeless population woman child homeless exhibit combination drug alcohol mental problem
+d000.s015.t003,exhibit,study show nearly homeless population make_up woman child homeless combination drug alcohol mental problem
+d000.s015.t004,combination,study show nearly homeless population make_up woman child homeless exhibit drug alcohol mental problem
+d000.s016.t000,problem,accord dr. wright homelessness simultaneously housing employment problem demographic problem problem social disaffiliation mental health problem family violence problem problem create cutback social welfare spending problem result decay traditional nuclear family problem intimately connect recent increase number person live poverty level
+d000.s016.t001,create,accord dr. wright homelessness simultaneously housing problem employment problem demographic problem problem social disaffiliation mental health problem family violence problem problem cutback social welfare spending problem result decay traditional nuclear family problem intimately connect recent increase number person live poverty level
+d000.s016.t002,result,accord dr. wright homelessness simultaneously housing problem employment problem demographic problem problem social disaffiliation mental health problem family violence problem problem create cutback social welfare spending problem decay traditional nuclear family problem intimately connect recent increase number person live poverty level
+d000.s016.t003,connect,accord dr. wright homelessness simultaneously housing problem employment problem demographic problem problem social disaffiliation mental health problem family violence problem problem create cutback social welfare spending problem result decay traditional nuclear family problem intimately recent increase number person live poverty level
+d000.s016.t004,person,accord dr. wright homelessness simultaneously housing problem employment problem demographic problem problem social disaffiliation mental health problem family violence problem problem create cutback social welfare spending problem result decay traditional nuclear family problem intimately connect recent increase number live poverty level
+d000.s016.t005,live,accord dr. wright homelessness simultaneously housing problem employment problem demographic problem problem social disaffiliation mental health problem family violence problem problem create cutback social welfare spending problem result decay traditional nuclear family problem intimately connect recent increase number person poverty level
+d000.s018.t000,quote,highly regarded director privately fund drop-in center homeless new york homeless n't sleep fear rob murder
+d000.s018.t001,director,quote highly regarded privately fund drop-in center homeless new york homeless n't sleep fear rob murder
+d000.s018.t002,center,quote highly regarded director privately fund drop-in homeless new york homeless n't sleep fear rob murder
+d000.s018.t003,sleep,quote highly regarded director privately fund drop-in center homeless new york homeless n't fear rob murder
+d000.s018.t004,rob,quote highly regarded director privately fund drop-in center homeless new york homeless n't sleep fear murder
+d000.s019.t000,fend,first three week sleep deprivation scarcely touch reality without psychiatric treatment may well unable ever
+d000.s020.t000,have,homeless obviously pre-existing mental illness addiction
+d000.s020.t001,addiction,homeless obviously pre-existing mental illness
+d000.s021.t000,fall,many crack economy grim brutal world city street
+d000.s024.t000,dismiss,sentimental view reduction federal housing-assistance program might play significant role increase number man woman sleep city street reagan-bush year
+d000.s024.t001,view,dismiss sentimental reduction federal housing-assistance program might play significant role increase number man woman sleep city street reagan-bush year
+d000.s024.t002,reduction,dismiss sentimental view federal housing-assistance program might play significant role increase number man woman sleep city street reagan-bush year
+d000.s024.t003,play,dismiss sentimental view reduction federal housing-assistance program might significant role increase number man woman sleep city street reagan-bush year
+d000.s024.t004,role,dismiss sentimental view reduction federal housing-assistance program might play significant increase number man woman sleep city street reagan-bush year
+d000.s024.t005,number,dismiss sentimental view reduction federal housing-assistance program might play significant role increase man woman sleep city street reagan-bush year
+d000.s024.t006,woman,dismiss sentimental view reduction federal housing-assistance program might play significant role increase number man sleep city street reagan-bush year
+d000.s025.t000,bother,sign consider inverse logic namely mental illness substance abuse might degree consequence rather cause homelessness
+d000.s025.t001,consider,sign bother inverse logic namely mental illness substance abuse might degree consequence rather cause homelessness
+d000.s026.t000,research,stop convenient assertion could make
+d000.s026.t001,stop,research convenient assertion could make
+d000.s026.t002,assertion,research stop convenient could make
+d000.s026.t003,make,research stop convenient assertion could
+d000.s028.t000,march,approximately sponsor recent washington homeless choose cite group national association home builder international union bricklayer allied craftsman insinuate march get major support self-serving group know good thing see crusade base greed profit motive
+d000.s028.t001,choose,approximately sponsor recent march washington homeless cite group national association home builder international union bricklayer allied craftsman insinuate march get major support self-serving group know good thing see crusade base greed profit motive
+d000.s028.t002,cite,approximately sponsor recent march washington homeless choose group national association home builder international union bricklayer allied craftsman insinuate march get major support self-serving group know good thing see crusade base greed profit motive
+d000.s028.t003,group,approximately sponsor recent march washington homeless choose cite national association home builder international union bricklayer allied craftsman insinuate march get major support self-serving group know good thing see crusade base greed profit motive
+d000.s028.t004,insinuate,approximately sponsor recent march washington homeless choose cite group national association home builder international union bricklayer allied craftsman march get major support self-serving group know good thing see crusade base greed profit motive
+d000.s028.t005,get,approximately sponsor recent march washington homeless choose cite group national association home builder international union bricklayer allied craftsman insinuate march major support self-serving group know good thing see crusade base greed profit motive
+d000.s028.t006,support,approximately sponsor recent march washington homeless choose cite group national association home builder international union bricklayer allied craftsman insinuate march get major self-serving group know good thing see crusade base greed profit motive
+d000.s028.t007,know,approximately sponsor recent march washington homeless choose cite group national association home builder international union bricklayer allied craftsman insinuate march get major support self-serving group good thing see crusade base greed profit motive
+d000.s028.t008,thing,approximately sponsor recent march washington homeless choose cite group national association home builder international union bricklayer allied craftsman insinuate march get major support self-serving group know good see crusade base greed profit motive
+d000.s028.t009,see,approximately sponsor recent march washington homeless choose cite group national association home builder international union bricklayer allied craftsman insinuate march get major support self-serving group know good thing crusade base greed profit motive
+d000.s028.t010,crusade,approximately sponsor recent march washington homeless choose cite group national association home builder international union bricklayer allied craftsman insinuate march get major support self-serving group know good thing see base greed profit motive
+d000.s028.t011,base,approximately sponsor recent march washington homeless choose cite group national association home builder international union bricklayer allied craftsman insinuate march get major support self-serving group know good thing see crusade greed profit motive
+d000.s029.t000,force,n't desire profit drive behind subscribe advertise paper
+d000.s029.t001,subscribe,n't desire profit drive force behind advertise paper
+d000.s029.t002,advertise,n't desire profit drive force behind subscribe paper
+d000.s030.t000,mention,n't ymca ywca catholic charity usa hundred nonprofit organization participate march
+d000.s030.t001,organization,n't mention ymca ywca catholic charity usa hundred nonprofit participate march
+d000.s030.t002,participate,n't mention ymca ywca catholic charity usa hundred nonprofit organization march
+d000.s031.t000,homeless,finding baltimore undergo psychiatric examination i suggest conduct survey
+d000.s031.t001,undergo,finding baltimore homeless psychiatric examination i suggest conduct survey
+d000.s031.t002,examination,finding baltimore homeless undergo psychiatric i suggest conduct survey
+d000.s031.t003,suggest,finding baltimore homeless undergo psychiatric examination i conduct survey
+d000.s031.t004,conduct,finding baltimore homeless undergo psychiatric examination i suggest survey
+d000.s031.t005,survey,finding baltimore homeless undergo psychiatric examination i suggest conduct
+d000.s032.t000,choose,business executive include perhaps someone staff put street deprive one month home family income
+d000.s032.t001,executive,choose business include perhaps someone staff put street deprive one month home family income
+d000.s032.t002,include,choose business executive perhaps someone staff put street deprive one month home family income
+d000.s032.t003,put,choose business executive include perhaps someone staff street deprive one month home family income
+d000.s032.t004,deprive,choose business executive include perhaps someone staff put street one month home family income
+d000.s033.t000,predict,i would within short time would find thunderbird satisfactory substitute chiva regal normal phobia anxiety depression substance abuse would increase dramatically
+d000.s033.t001,find,i would predict within short time would thunderbird satisfactory substitute chiva regal normal phobia anxiety depression substance abuse would increase dramatically
+d000.s033.t002,increase,i would predict within short time would find thunderbird satisfactory substitute chiva regal normal phobia anxiety depression substance abuse would dramatically
+d001.s000.t000,account,feeding frenzy henry holt page 19.95 highly detailed wedtech scandal begin reassuring note
+d001.s000.t001,begin,feeding frenzy henry holt page 19.95 highly detailed account wedtech scandal reassuring note
+d001.s001.t000,give,right front preface co-author william sternberg example integrity
+d001.s001.t001,example,right front preface co-author william sternberg give integrity
+d001.s002.t000,offer,free trip bronx wedtech home washington d.c. one wedtech principal tell reader mindful accept anything value i write_about i decline
+d001.s002.t001,trip,offer free bronx wedtech home washington d.c. one wedtech principal tell reader mindful accept anything value i write_about i decline
+d001.s002.t002,tell,offer free trip bronx wedtech home washington d.c. one wedtech principal reader mindful accept anything value i write_about i decline
+d001.s002.t003,reader,offer free trip bronx wedtech home washington d.c. one wedtech principal tell mindful accept anything value i write_about i decline
+d001.s002.t004,accept,offer free trip bronx wedtech home washington d.c. one wedtech principal tell reader mindful anything value i write_about i decline
+d001.s002.t005,write_about,offer free trip bronx wedtech home washington d.c. one wedtech principal tell reader mindful accept anything value i i decline
+d001.s002.t006,decline,offer free trip bronx wedtech home washington d.c. one wedtech principal tell reader mindful accept anything value i write_about i
+d001.s003.t000,question,author would believe plaintive high-minded note assurance necessary answer read book sticky finger sweaty scammer
+d001.s003.t001,author,question would believe plaintive high-minded note assurance necessary answer read book sticky finger sweaty scammer
+d001.s003.t002,believe,question author would plaintive high-minded note assurance necessary answer read book sticky finger sweaty scammer
+d001.s003.t003,answer,question author would believe plaintive high-minded note assurance necessary read book sticky finger sweaty scammer
+d001.s003.t004,read,question author would believe plaintive high-minded note assurance necessary answer book sticky finger sweaty scammer
+d001.s003.t005,book,question author would believe plaintive high-minded note assurance necessary answer read sticky finger sweaty scammer
+d001.s004.t000,lead,bribe bribe mr. sternberg co-author matthew c. harrison jr. along path wedtech travel inception small manufacturing company status full-fledged defense contractor entrust task produce vital equipment army navy
+d001.s004.t001,path,bribe bribe mr. sternberg co-author matthew c. harrison jr. lead along wedtech travel inception small manufacturing company status full-fledged defense contractor entrust task produce vital equipment army navy
+d001.s004.t002,travel,bribe bribe mr. sternberg co-author matthew c. harrison jr. lead along path wedtech inception small manufacturing company status full-fledged defense contractor entrust task produce vital equipment army navy
+d001.s004.t003,company,bribe bribe mr. sternberg co-author matthew c. harrison jr. lead along path wedtech travel inception small manufacturing status full-fledged defense contractor entrust task produce vital equipment army navy
+d001.s004.t004,contractor,bribe bribe mr. sternberg co-author matthew c. harrison jr. lead along path wedtech travel inception small manufacturing company status full-fledged defense entrust task produce vital equipment army navy
+d001.s004.t005,entrust,bribe bribe mr. sternberg co-author matthew c. harrison jr. lead along path wedtech travel inception small manufacturing company status full-fledged defense contractor task produce vital equipment army navy
+d001.s004.t006,produce,bribe bribe mr. sternberg co-author matthew c. harrison jr. lead along path wedtech travel inception small manufacturing company status full-fledged defense contractor entrust task vital equipment army navy
+d001.s005.t000,book,revolve_around john mariotta founder company fred neuberger become partner soon wedtech creation
+d001.s005.t001,revolve_around,book john mariotta founder company fred neuberger become partner soon wedtech creation
+d001.s005.t002,become,book revolve_around john mariotta founder company fred neuberger partner soon wedtech creation
+d001.s005.t003,partner,book revolve_around john mariotta founder company fred neuberger become soon wedtech creation
+d001.s006.t000,start,although wedtech n't really get roll mr. neuberger discover federal government section minority business programme
+d001.s006.t001,get,although start wedtech n't really roll mr. neuberger discover federal government section minority business programme
+d001.s006.t002,roll,although start wedtech n't really get mr. neuberger discover federal government section minority business programme
+d001.s006.t003,discover,although start wedtech n't really get roll mr. neuberger federal government section minority business programme
+d001.s006.t004,programme,although start wedtech n't really get roll mr. neuberger discover federal government section minority business
+d001.s007.t000,creation,johnson-era great society mandate certain government contract award noncompetitively minority business
+d001.s007.t001,mandate,johnson-era great society creation certain government contract award noncompetitively minority business
+d001.s007.t002,contract,johnson-era great society creation mandate certain government award noncompetitively minority business
+d001.s007.t003,award,johnson-era great society creation mandate certain government contract noncompetitively minority business
+d001.s008.t000,realize,mr. neuberger although italian ancestry mr. mariotta still could qualify minority person since bear puerto rico
+d001.s008.t001,qualify,mr. neuberger realize although italian ancestry mr. mariotta still could minority person since bear puerto rico
+d001.s009.t000,partner,two merely falsify true ownership corporation
+d001.s009.t001,have,two partner merely falsify true ownership corporation
+d001.s009.t002,falsify,two partner merely true ownership corporation
+d001.s009.t003,ownership,two partner merely falsify true corporation
+d001.s010.t000,become,instead 50/50 paper two-thirds mariotta one-third neuberger program race
+d001.s011.t000,locate,besides minority-owned company wedtech south bronx blighted area make famous jimmy carter presidential campaign
+d001.s011.t001,area,besides minority-owned company wedtech locate south bronx blighted make famous jimmy carter presidential campaign
+d001.s011.t002,make,besides minority-owned company wedtech locate south bronx blighted area famous jimmy carter presidential campaign
+d001.s012.t000,company,plug right carter campaign rhetoric rebuild south bronx keep use minority -- south bronx angle reagan '80
+d001.s012.t001,rebuild,company plug right carter campaign rhetoric south bronx keep use minority -- south bronx angle reagan '80
+d001.s012.t002,keep,company plug right carter campaign rhetoric rebuild south bronx use minority -- south bronx angle reagan '80
+d001.s012.t003,use,company plug right carter campaign rhetoric rebuild south bronx keep minority -- south bronx angle reagan '80
+d001.s012.t004,angle,company plug right carter campaign rhetoric rebuild south bronx keep use minority -- south bronx reagan '80
+d001.s013.t000,start,congressman mario biaggus serve jail sentence company begin career bribe federal state local public official close public official right include e. robert wallach close friend adviser former attorney general ed meese
+d001.s013.t001,serve,start congressman mario biaggus jail sentence company begin career bribe federal state local public official close public official right include e. robert wallach close friend adviser former attorney general ed meese
+d001.s013.t002,sentence,start congressman mario biaggus serve jail company begin career bribe federal state local public official close public official right include e. robert wallach close friend adviser former attorney general ed meese
+d001.s013.t003,company,start congressman mario biaggus serve jail sentence begin career bribe federal state local public official close public official right include e. robert wallach close friend adviser former attorney general ed meese
+d001.s013.t004,begin,start congressman mario biaggus serve jail sentence company career bribe federal state local public official close public official right include e. robert wallach close friend adviser former attorney general ed meese
+d001.s013.t005,career,start congressman mario biaggus serve jail sentence company begin bribe federal state local public official close public official right include e. robert wallach close friend adviser former attorney general ed meese
+d001.s013.t006,bribe,start congressman mario biaggus serve jail sentence company begin career federal state local public official close public official right include e. robert wallach close friend adviser former attorney general ed meese
+d001.s013.t007,official,start congressman mario biaggus serve jail sentence company begin career bribe federal state local public close public official right include e. robert wallach close friend adviser former attorney general ed meese
+d001.s013.t008,include,start congressman mario biaggus serve jail sentence company begin career bribe federal state local public official close public official right e. robert wallach close friend adviser former attorney general ed meese
+d001.s014.t000,use,wedtech n't old fashion bribery
+d001.s015.t000,make,ample use modern technique influence peddling retain politically connect respectable law firm investment banker political consultant include reagan confidant lyn nofzinger
+d001.s015.t001,use,make ample modern technique influence peddling retain politically connect respectable law firm investment banker political consultant include reagan confidant lyn nofzinger
+d001.s015.t002,retain,make ample use modern technique influence peddling politically connect respectable law firm investment banker political consultant include reagan confidant lyn nofzinger
+d001.s015.t003,include,make ample use modern technique influence peddling retain politically connect respectable law firm investment banker political consultant reagan confidant lyn nofzinger
+d001.s016.t000,seek,necessary receive assistance organize crime
+d001.s016.t001,receive,necessary seek assistance organize crime
+d001.s016.t002,assistance,necessary seek receive organize crime
+d001.s017.t000,become,sometimes bribe partner company
+d001.s017.t001,partner,sometimes bribe become company
+d001.s018.t000,management,wedtech use merit system
+d001.s018.t001,use,wedtech management merit system
+d001.s018.t002,system,wedtech management use merit
+d001.s019.t000,receive,especially helpful corrupt scheme cash bag equity
+d001.s019.t001,equity,especially helpful corrupt scheme receive cash bag
+d001.s020.t000,find,effective crook cold fate eventually befall mr. mariotta firm semiliterate minority person
+d001.s020.t001,fate,effective crook find cold eventually befall mr. mariotta firm semiliterate minority person
+d001.s020.t002,befall,effective crook find cold fate eventually mr. mariotta firm semiliterate minority person
+d001.s020.t003,person,effective crook find cold fate eventually befall mr. mariotta firm semiliterate minority
+d001.s021.t000,fall_short,despite sensational nature revelation breezy easy-to-read tabloid writing style feeding frenzy often grip reading
+d001.s022.t000,show,none scam much ingenuity auditor find crookery first day job
+d001.s022.t001,ingenuity,none scam show much auditor find crookery first day job
+d001.s022.t002,find,none scam show much ingenuity auditor crookery first day job
+d001.s023.t000,bribe,wedtech scammer simply shut_up
+d001.s023.t001,shut_up,wedtech scammer simply bribe
+d001.s024.t000,want,scammer garden-variety low life conspicuous consumer big house mercedes car beautiful woman expensive clothes
+d001.s024.t001,clothes,scammer garden-variety low life conspicuous consumer want big house mercedes car beautiful woman expensive
+d001.s025.t000,wrestle,among lot one good evil especially intelligent even temporarily insane
+d001.s026.t000,change,one character least somewhat interesting irving loui lobsenz pediatrician name rusty kent london become master gambler author book blackjack
+d001.s026.t001,name,one character least somewhat interesting irving loui lobsenz pediatrician change rusty kent london become master gambler author book blackjack
+d001.s026.t002,become,one character least somewhat interesting irving loui lobsenz pediatrician change name rusty kent london master gambler author book blackjack
+d001.s026.t003,author,one character least somewhat interesting irving loui lobsenz pediatrician change name rusty kent london become master gambler book blackjack
+d001.s027.t000,enter,story toward end time get arrest
+d001.s027.t001,get,enter story toward end time arrest
+d001.s027.t002,arrest,enter story toward end time get
+d001.s028.t000,absorb,dole feeding frenzy tidbit author gloss_over root cause wedtech namely section federal program whose auspices scandal take_place
+d001.s028.t001,author,absorb dole feeding frenzy tidbit gloss_over root cause wedtech namely section federal program whose auspices scandal take_place
+d001.s028.t002,gloss_over,absorb dole feeding frenzy tidbit author root cause wedtech namely section federal program whose auspices scandal take_place
+d001.s028.t003,program,absorb dole feeding frenzy tidbit author gloss_over root cause wedtech namely section federal whose auspices scandal take_place
+d001.s028.t004,scandal,absorb dole feeding frenzy tidbit author gloss_over root cause wedtech namely section federal program whose auspices take_place
+d001.s028.t005,take_place,absorb dole feeding frenzy tidbit author gloss_over root cause wedtech namely section federal program whose auspices scandal
+d001.s029.t000,come_around,least say court might want end rigid affirmative action program
+d001.s029.t001,say,least come_around court might want end rigid affirmative action program
+d001.s029.t002,court,least come_around say might want end rigid affirmative action program
+d001.s029.t003,want,least come_around say court might end rigid affirmative action program
+d001.s029.t004,end,least come_around say court might want rigid affirmative action program
+d001.s029.t005,program,least come_around say court might want end rigid affirmative action
+d001.s030.t000,leave,program like section little like gold street express surprise thief walk scoop
+d001.s030.t001,gold,program like section little like leave street express surprise thief walk scoop
+d001.s030.t002,express,program like section little like leave gold street surprise thief walk scoop
+d001.s030.t003,surprise,program like section little like leave gold street express thief walk scoop
+d001.s030.t004,walk,program like section little like leave gold street express surprise thief scoop
+d001.s030.t005,scoop,program like section little like leave gold street express surprise thief walk
+d001.s031.t000,one,numerous scandal among hud characteristic wedtech
+d001.s031.t001,have,numerous scandal among one hud characteristic wedtech
+d001.s031.t002,characteristic,numerous scandal among one hud wedtech
+d001.s032.t000,take_place,government program seem tailor-made corruption
+d001.s032.t001,program,take_place government seem tailor-made corruption
+d001.s032.t002,seem,take_place government program tailor-made corruption
+d001.s033.t000,program,like eliminate
+d001.s033.t001,eliminate,program like
+d001.s034.t000,provide,feeding frenzy clue
+d001.s034.t001,clue,feeding frenzy provide
+d001.s035.t000,group,around level government u.s. people best describe belong political insider commercial party
+d001.s035.t001,people,around level government u.s. group best describe belong political insider commercial party
+d001.s035.t002,describe,around level government u.s. group people best belong political insider commercial party
+d001.s035.t003,belong,around level government u.s. group people best describe political insider commercial party
+d001.s036.t000,know,whenever government redistribute wealth regulate commerce maintain large defense establishment big money make influence broker sell process decision government
+d001.s036.t001,government,know whenever redistribute wealth regulate commerce maintain large defense establishment big money make influence broker sell process decision government
+d001.s036.t002,redistribute,know whenever government wealth regulate commerce maintain large defense establishment big money make influence broker sell process decision government
+d001.s036.t003,wealth,know whenever government redistribute regulate commerce maintain large defense establishment big money make influence broker sell process decision government
+d001.s036.t004,regulate,know whenever government redistribute wealth commerce maintain large defense establishment big money make influence broker sell process decision government
+d001.s036.t005,commerce,know whenever government redistribute wealth regulate maintain large defense establishment big money make influence broker sell process decision government
+d001.s036.t006,maintain,know whenever government redistribute wealth regulate commerce large defense establishment big money make influence broker sell process decision government
+d001.s036.t007,establishment,know whenever government redistribute wealth regulate commerce maintain large defense big money make influence broker sell process decision government
+d001.s036.t008,money,know whenever government redistribute wealth regulate commerce maintain large defense establishment big make influence broker sell process decision government
+d001.s036.t009,make,know whenever government redistribute wealth regulate commerce maintain large defense establishment big money influence broker sell process decision government
+d001.s036.t010,influence,know whenever government redistribute wealth regulate commerce maintain large defense establishment big money make broker sell process decision government
+d001.s036.t011,broker,know whenever government redistribute wealth regulate commerce maintain large defense establishment big money make influence sell process decision government
+d001.s036.t012,decision,know whenever government redistribute wealth regulate commerce maintain large defense establishment big money make influence broker sell process government
+d001.s037.t000,have,version east bloc nomenklatura absolutely wish see anything change
+d001.s037.t001,wish,version east bloc nomenklatura absolutely see anything change
+d001.s037.t002,see,version east bloc nomenklatura absolutely wish anything change
+d001.s037.t003,change,version east bloc nomenklatura absolutely wish see anything
+d001.s038.t000,exist,many government program policy line pocket political insider
+d001.s038.t001,line,many government program policy exist pocket political insider
+d001.s038.t002,pocket,many government program policy exist line political insider
+d001.s039.t000,issue,real raise wedtech scandal
+d001.s039.t001,raise,real issue wedtech scandal
+d002.s000.t000,reach,i back french monsieur avec clipboard lean shoulder coffee phase dinner ask whether i want ride montgolfiere
+d002.s000.t001,lean,i reach back french monsieur avec clipboard shoulder coffee phase dinner ask whether i want ride montgolfiere
+d002.s000.t002,ask,i reach back french monsieur avec clipboard lean shoulder coffee phase dinner whether i want ride montgolfiere
+d002.s000.t003,want,i reach back french monsieur avec clipboard lean shoulder coffee phase dinner ask whether i ride montgolfiere
+d002.s000.t004,ride,i reach back french monsieur avec clipboard lean shoulder coffee phase dinner ask whether i want montgolfiere
+d002.s001.t000,read,i last-minute interlope attendee french journalism convention far festivity take_up entirely eating drinking smoking sleeping drinking
+d002.s001.t001,take_up,i last-minute read interlope attendee french journalism convention far festivity entirely eating drinking smoking sleeping drinking
+d002.s002.t000,man,clipboard represent halfhearted attempt introduce bit les sportif itinerary
+d002.s002.t001,represent,man clipboard halfhearted attempt introduce bit les sportif itinerary
+d002.s002.t002,attempt,man clipboard represent halfhearted introduce bit les sportif itinerary
+d002.s002.t003,introduce,man clipboard represent halfhearted attempt bit les sportif itinerary
+d002.s002.t004,bit,man clipboard represent halfhearted attempt introduce les sportif itinerary
+d002.s003.t000,embody,french zen-like state blase come_to athletics try find nautilus machine pari fellow conventioner none
+d002.s003.t001,state,french embody zen-like blase come_to athletics try find nautilus machine pari fellow conventioner none
+d002.s003.t002,come_to,french embody zen-like state blase athletics try find nautilus machine pari fellow conventioner none
+d002.s003.t003,try,french embody zen-like state blase come_to athletics find nautilus machine pari fellow conventioner none
+d002.s003.t004,find,french embody zen-like state blase come_to athletics try nautilus machine pari fellow conventioner none
+d002.s003.t005,machine,french embody zen-like state blase come_to athletics try find nautilus pari fellow conventioner none
+d002.s003.t006,have,french embody zen-like state blase come_to athletics try find nautilus machine pari fellow conventioner none
+d002.s004.t000,diner,table simply light gauloise scoff suggestion interrupt perfectly good saturday morning go golfing even montgolfing ballooning brother montgolfier french course world first hot-air balloonist
+d002.s004.t001,light,diner table simply gauloise scoff suggestion interrupt perfectly good saturday morning go golfing even montgolfing ballooning brother montgolfier french course world first hot-air balloonist
+d002.s004.t002,scoff,diner table simply light gauloise suggestion interrupt perfectly good saturday morning go golfing even montgolfing ballooning brother montgolfier french course world first hot-air balloonist
+d002.s004.t003,interrupt,diner table simply light gauloise scoff suggestion perfectly good saturday morning go golfing even montgolfing ballooning brother montgolfier french course world first hot-air balloonist
+d002.s004.t004,morning,diner table simply light gauloise scoff suggestion interrupt perfectly good saturday go golfing even montgolfing ballooning brother montgolfier french course world first hot-air balloonist
+d002.s005.t000,win,back u.s.a. kind chi-chi airborne activity heartwarmingly covetous response
+d002.s005.t001,response,back u.s.a. kind chi-chi airborne activity win heartwarmingly covetous
+d002.s006.t000,balloon,go
+d002.s008.t000,seem,american follow malcolm forbe hot-air lead take_to ballooning heady way
+d002.s008.t001,follow,american seem malcolm forbe hot-air lead take_to ballooning heady way
+d002.s008.t002,lead,american seem follow malcolm forbe hot-air take_to ballooning heady way
+d002.s008.t003,take_to,american seem follow malcolm forbe hot-air lead ballooning heady way
+d002.s009.t000,number,"past year balloonist pass federal aviation authority lighter-than-air test swell couple hundred several thousand estimate run high 10,000"
+d002.s009.t001,pass,"past year number balloonist federal aviation authority lighter-than-air test swell couple hundred several thousand estimate run high 10,000"
+d002.s009.t002,test,"past year number balloonist pass federal aviation authority lighter-than-air swell couple hundred several thousand estimate run high 10,000"
+d002.s009.t003,swell,"past year number balloonist pass federal aviation authority lighter-than-air test couple hundred several thousand estimate run high 10,000"
+d002.s009.t004,estimate,"past year number balloonist pass federal aviation authority lighter-than-air test swell couple hundred several thousand run high 10,000"
+d002.s009.t005,run,"past year number balloonist pass federal aviation authority lighter-than-air test swell couple hundred several thousand estimate high 10,000"
+d002.s010.t000,hold,"balloon show annually u.s. include world largest convocation ersatz phinea fogg -- nine-day albuquerque international balloon fiesta attract 800,000 enthusiast balloon fetchingly shape resemble carman miranda garfield 12-story-high condom"
+d002.s010.t001,include,"balloon show hold annually u.s. world largest convocation ersatz phinea fogg -- nine-day albuquerque international balloon fiesta attract 800,000 enthusiast balloon fetchingly shape resemble carman miranda garfield 12-story-high condom"
+d002.s010.t002,attract,"balloon show hold annually u.s. include world largest convocation ersatz phinea fogg -- nine-day albuquerque international balloon fiesta 800,000 enthusiast balloon fetchingly shape resemble carman miranda garfield 12-story-high condom"
+d002.s010.t003,balloon,"show hold annually u.s. include world largest convocation ersatz phinea fogg -- nine-day albuquerque international balloon fiesta attract 800,000 enthusiast balloon fetchingly shape resemble carman miranda garfield 12-story-high condom"
+d002.s010.t004,shape,"balloon show hold annually u.s. include world largest convocation ersatz phinea fogg -- nine-day albuquerque international balloon fiesta attract 800,000 enthusiast balloon fetchingly resemble carman miranda garfield 12-story-high condom"
+d002.s010.t005,resemble,"balloon show hold annually u.s. include world largest convocation ersatz phinea fogg -- nine-day albuquerque international balloon fiesta attract 800,000 enthusiast balloon fetchingly shape carman miranda garfield 12-story-high condom"
+d002.s011.t000,balloon,condom deny official entry status year
+d002.s011.t001,deny,condom balloon official entry status year
+d002.s011.t002,status,condom balloon deny official entry year
+d002.s013.t000,hold,ballooning de rigueur hour a.m. attraction people sunrise root-canal work
+d002.s013.t001,attraction,ballooning de rigueur hour a.m. hold people sunrise root-canal work
+d002.s014.t000,feel,nagging culture imperative i promptly sign_up
+d002.s014.t001,sign_up,feel nagging culture imperative i promptly
+d002.s015.t000,thing,first anybody tell ballooning require zip way athletic prowess even measure derring-do
+d002.s015.t001,tell,first thing anybody ballooning require zip way athletic prowess even measure derring-do
+d002.s015.t002,require,first thing anybody tell ballooning zip way athletic prowess even measure derring-do
+d002.s015.t003,zip,first thing anybody tell ballooning require way athletic prowess even measure derring-do
+d002.s016.t000,look,long n't
+d002.s017.t000,tell,also even hate height still balloon
+d002.s017.t001,hate,also tell even height still balloon
+d002.s017.t002,balloon,also tell even hate height still
+d002.s018.t000,say,i still n't look
+d002.s018.t001,look,i still say n't
+d002.s019.t000,ascend,least
+d002.s020.t000,tell,wo n't go aloft anything n't want get wet
+d002.s020.t001,go,wo n't tell aloft anything n't want get wet
+d002.s020.t002,want,wo n't tell go aloft anything n't get wet
+d002.s020.t003,get,wo n't tell go aloft anything n't want wet
+d002.s021.t000,refer,i traditional champagne drenching back-on-terra-firma toast
+d002.s022.t000,talk,i landing canal
+d002.s024.t000,pilot,speak english
+d002.s024.t001,speak,pilot english
+d002.s025.t000,refer,wit maiden voyage novitiate virgin begin dawn dew-sodden fairway end noon soggy field
+d002.s025.t001,begin,wit maiden voyage novitiate refer virgin dawn dew-sodden fairway end noon soggy field
+d002.s025.t002,end,wit maiden voyage novitiate refer virgin begin dawn dew-sodden fairway noon soggy field
+d002.s026.t000,flight,balloon almost always occur dawn dusk wind lightest
+d002.s026.t001,occur,balloon flight almost always dawn dusk wind lightest
+d002.s027.t000,come,lot coffee drinking watch balloon inflate lot stand around decide would fly balloon order basket hold four passenger
+d002.s027.t001,lot,come coffee drinking watch balloon inflate lot stand around decide would fly balloon order basket hold four passenger
+d002.s027.t002,watch,come lot coffee drinking balloon inflate lot stand around decide would fly balloon order basket hold four passenger
+d002.s027.t003,balloon,come lot coffee drinking watch inflate lot stand around decide would fly balloon order basket hold four passenger
+d002.s027.t004,inflate,come lot coffee drinking watch balloon lot stand around decide would fly balloon order basket hold four passenger
+d002.s027.t005,stand,come lot coffee drinking watch balloon inflate lot around decide would fly balloon order basket hold four passenger
+d002.s027.t006,decide,come lot coffee drinking watch balloon inflate lot stand around would fly balloon order basket hold four passenger
+d002.s027.t007,fly,come lot coffee drinking watch balloon inflate lot stand around decide would balloon order basket hold four passenger
+d002.s027.t008,basket,come lot coffee drinking watch balloon inflate lot stand around decide would fly balloon order hold four passenger
+d002.s027.t009,hold,come lot coffee drinking watch balloon inflate lot stand around decide would fly balloon order basket four passenger
+d002.s028.t000,follow,n't turn balloon i progress chase car listen driver holler walkie-talkie
+d002.s028.t001,progress,n't turn balloon i follow chase car listen driver holler walkie-talkie
+d002.s028.t002,listen,n't turn balloon i follow progress chase car driver holler walkie-talkie
+d002.s028.t003,driver,n't turn balloon i follow progress chase car listen holler walkie-talkie
+d002.s028.t004,holler,n't turn balloon i follow progress chase car listen driver walkie-talkie
+d002.s029.t000,come,long stretch attendant ground activity lovely minute drift vosge watch silver mist rise river french cow amble field
+d002.s029.t001,minute,long stretch attendant ground activity come lovely drift vosge watch silver mist rise river french cow amble field
+d002.s029.t002,drift,long stretch attendant ground activity come lovely minute vosge watch silver mist rise river french cow amble field
+d002.s029.t003,watch,long stretch attendant ground activity come lovely minute drift vosge silver mist rise river french cow amble field
+d002.s029.t004,rise,long stretch attendant ground activity come lovely minute drift vosge watch silver mist river french cow amble field
+d002.s029.t005,cow,long stretch attendant ground activity come lovely minute drift vosge watch silver mist rise river french amble field
+d002.s029.t006,amble,long stretch attendant ground activity come lovely minute drift vosge watch silver mist rise river french cow field
+d002.s030.t000,feel,hard god heaven kind bird's-eye view world even pilote silly plaid beret keep point_out belle
+d002.s030.t001,keep,hard feel god heaven kind bird's-eye view world even pilote silly plaid beret point_out belle
+d002.s030.t002,point_out,hard feel god heaven kind bird's-eye view world even pilote silly plaid beret keep belle
+d002.s031.t000,come,eventually little french farmer little french farmwife stone house put hand tiny eye squint
+d002.s031.t001,put,eventually little french farmer little french farmwife come stone house hand tiny eye squint
+d002.s031.t002,hand,eventually little french farmer little french farmwife come stone house put tiny eye squint
+d002.s031.t003,squint,eventually little french farmer little french farmwife come stone house put hand tiny eye
+d002.s033.t000,come,straight canal
+d002.s034.t000,see,rule thumb ballooning ca n't steer
+d002.s034.t001,steer,see rule thumb ballooning ca n't
+d002.s036.t000,go,heat balloon air propane burner make top head feel hot ride air current
+d002.s036.t001,heat,go balloon air propane burner make top head feel hot ride air current
+d002.s036.t002,air,go heat balloon propane burner make top head feel hot ride air current
+d002.s036.t003,burner,go heat balloon air propane make top head feel hot ride air current
+d002.s036.t004,make,go heat balloon air propane burner top head feel hot ride air current
+d002.s036.t005,top,go heat balloon air propane burner make head feel hot ride air current
+d002.s036.t006,feel,go heat balloon air propane burner make top head hot ride air current
+d002.s036.t007,ride,go heat balloon air propane burner make top head feel hot air current
+d002.s036.t008,current,go heat balloon air propane burner make top head feel hot ride air
+d002.s037.t000,make,chase car necessary
+d002.s037.t001,car,make chase necessary
+d002.s038.t000,go,"balloonist seldom higher 2,000 foot average leisurely 5-10 mile hour"
+d002.s038.t001,average,"balloonist seldom go higher 2,000 foot leisurely 5-10 mile hour"
+d002.s038.t002,hour,"balloonist seldom go higher 2,000 foot average leisurely 5-10 mile"
+d002.s039.t000,balloon,cruise along steady altitude little sense motion
+d002.s039.t001,cruise,balloon along steady altitude little sense motion
+d002.s040.t000,ascend,one -- case descend tad trop rapidement -- one feel well airborne picnic basket
+d002.s040.t001,descend,one ascend -- case tad trop rapidement -- one feel well airborne picnic basket
+d002.s041.t000,do,hiss companion english-speaking member convention whose knuckle white
+d002.s041.t001,hiss,companion english-speaking member convention whose knuckle white
+d002.s041.t002,companion,hiss english-speaking member convention whose knuckle white
+d002.s042.t000,yell,attention pilot basket plunge canal
+d002.s042.t001,pilot,attention yell basket plunge canal
+d002.s042.t002,basket,attention yell pilot plunge canal
+d002.s042.t003,plunge,attention yell pilot basket canal
+d002.s043.t000,yell,bet attention i back leap atop propane tank i wear alligator loafer
+d002.s043.t001,leap,bet attention i yell back atop propane tank i wear alligator loafer
+d002.s043.t002,wear,bet attention i yell back leap atop propane tank i alligator loafer
+d002.s043.t003,loafer,bet attention i yell back leap atop propane tank i wear alligator
+d002.s044.t000,pilot,simply laugh fire burner another blast flame lift oh good 12-inch water level
+d002.s044.t001,laugh,pilot simply fire burner another blast flame lift oh good 12-inch water level
+d002.s044.t002,burner,pilot simply laugh fire another blast flame lift oh good 12-inch water level
+d002.s044.t003,lift,pilot simply laugh fire burner another blast flame oh good 12-inch water level
+d002.s045.t000,scuttle,along foot plunge drink
+d002.s045.t001,plunge,scuttle along foot drink
+d002.s046.t000,come,eventually rest soggy patch field exquisite pleasure scramble basket mud french half ballooning tag team scramble
+d002.s046.t001,rest,eventually come soggy patch field exquisite pleasure scramble basket mud french half ballooning tag team scramble
+d002.s046.t002,have,eventually come rest soggy patch field exquisite pleasure scramble basket mud french half ballooning tag team scramble
+d002.s046.t003,pleasure,eventually come rest soggy patch field exquisite scramble basket mud french half ballooning tag team scramble
+d002.s046.t004,scramble,eventually come rest soggy patch field exquisite pleasure basket mud french half ballooning tag team scramble
+d002.s046.t005,half,eventually come rest soggy patch field exquisite pleasure scramble basket mud french ballooning tag team scramble
+d002.s046.t006,scramble,eventually come rest soggy patch field exquisite pleasure basket mud french half ballooning tag team scramble
+d002.s047.t000,look,i watch
+d002.s049.t000,drive,back chase car around get get_stuck ditch enlist aid local farmer get_out trailer hitch pull_out ditch
+d002.s049.t001,get,back chase car drive around get_stuck ditch enlist aid local farmer get_out trailer hitch pull_out ditch
+d002.s049.t002,get_stuck,back chase car drive around get ditch enlist aid local farmer get_out trailer hitch pull_out ditch
+d002.s049.t003,enlist,back chase car drive around get get_stuck ditch aid local farmer get_out trailer hitch pull_out ditch
+d002.s049.t004,aid,back chase car drive around get get_stuck ditch enlist local farmer get_out trailer hitch pull_out ditch
+d002.s049.t005,farmer,back chase car drive around get get_stuck ditch enlist aid local get_out trailer hitch pull_out ditch
+d002.s049.t006,get_out,back chase car drive around get get_stuck ditch enlist aid local farmer trailer hitch pull_out ditch
+d002.s049.t007,hitch,back chase car drive around get get_stuck ditch enlist aid local farmer get_out trailer pull_out ditch
+d002.s049.t008,pull_out,back chase car drive around get get_stuck ditch enlist aid local farmer get_out trailer hitch ditch
+d002.s050.t000,rendezvous,finally balloon come rest dirt road amid clutch epinaler watch disassemble craft -- another half-an-hour non-flight activity -- include precision routine yank balloon ground punch air roll_up cram basket trailer
+d002.s050.t001,balloon,finally rendezvous come rest dirt road amid clutch epinaler watch disassemble craft -- another half-an-hour non-flight activity -- include precision routine yank balloon ground punch air roll_up cram basket trailer
+d002.s050.t002,come,finally rendezvous balloon rest dirt road amid clutch epinaler watch disassemble craft -- another half-an-hour non-flight activity -- include precision routine yank balloon ground punch air roll_up cram basket trailer
+d002.s050.t003,rest,finally rendezvous balloon come dirt road amid clutch epinaler watch disassemble craft -- another half-an-hour non-flight activity -- include precision routine yank balloon ground punch air roll_up cram basket trailer
+d002.s050.t004,watch,finally rendezvous balloon come rest dirt road amid clutch epinaler disassemble craft -- another half-an-hour non-flight activity -- include precision routine yank balloon ground punch air roll_up cram basket trailer
+d002.s050.t005,disassemble,finally rendezvous balloon come rest dirt road amid clutch epinaler watch craft -- another half-an-hour non-flight activity -- include precision routine yank balloon ground punch air roll_up cram basket trailer
+d002.s050.t006,craft,finally rendezvous balloon come rest dirt road amid clutch epinaler watch disassemble -- another half-an-hour non-flight activity -- include precision routine yank balloon ground punch air roll_up cram basket trailer
+d002.s050.t007,activity,finally rendezvous balloon come rest dirt road amid clutch epinaler watch disassemble craft -- another half-an-hour non-flight -- include precision routine yank balloon ground punch air roll_up cram basket trailer
+d002.s050.t008,include,finally rendezvous balloon come rest dirt road amid clutch epinaler watch disassemble craft -- another half-an-hour non-flight activity -- precision routine yank balloon ground punch air roll_up cram basket trailer
+d002.s050.t009,routine,finally rendezvous balloon come rest dirt road amid clutch epinaler watch disassemble craft -- another half-an-hour non-flight activity -- include precision yank balloon ground punch air roll_up cram basket trailer
+d002.s050.t010,yank,finally rendezvous balloon come rest dirt road amid clutch epinaler watch disassemble craft -- another half-an-hour non-flight activity -- include precision routine balloon ground punch air roll_up cram basket trailer
+d002.s050.t011,punch,finally rendezvous balloon come rest dirt road amid clutch epinaler watch disassemble craft -- another half-an-hour non-flight activity -- include precision routine yank balloon ground air roll_up cram basket trailer
+d002.s050.t012,air,finally rendezvous balloon come rest dirt road amid clutch epinaler watch disassemble craft -- another half-an-hour non-flight activity -- include precision routine yank balloon ground punch roll_up cram basket trailer
+d002.s050.t013,roll_up,finally rendezvous balloon come rest dirt road amid clutch epinaler watch disassemble craft -- another half-an-hour non-flight activity -- include precision routine yank balloon ground punch air cram basket trailer
+d002.s050.t014,cram,finally rendezvous balloon come rest dirt road amid clutch epinaler watch disassemble craft -- another half-an-hour non-flight activity -- include precision routine yank balloon ground punch air roll_up basket trailer
+d002.s050.t015,basket,finally rendezvous balloon come rest dirt road amid clutch epinaler watch disassemble craft -- another half-an-hour non-flight activity -- include precision routine yank balloon ground punch air roll_up cram trailer
+d002.s051.t000,exercise,'d morning follow drive immediately nearest watering hole
+d002.s051.t001,have,exercise 'd morning follow drive immediately nearest watering hole
+d002.s051.t002,follow,exercise 'd morning drive immediately nearest watering hole
+d002.s051.t003,drive,exercise 'd morning follow immediately nearest watering hole
+d002.s052.t000,mean,return golf course watch french duffer maul first tee sit cinzano umbrella i nurse espresso ego
+d002.s052.t001,return,mean golf course watch french duffer maul first tee sit cinzano umbrella i nurse espresso ego
+d002.s052.t002,watch,mean return golf course french duffer maul first tee sit cinzano umbrella i nurse espresso ego
+d002.s052.t003,duffer,mean return golf course watch french maul first tee sit cinzano umbrella i nurse espresso ego
+d002.s052.t004,maul,mean return golf course watch french duffer first tee sit cinzano umbrella i nurse espresso ego
+d002.s052.t005,tee,mean return golf course watch french duffer maul first sit cinzano umbrella i nurse espresso ego
+d002.s052.t006,sit,mean return golf course watch french duffer maul first tee cinzano umbrella i nurse espresso ego
+d002.s052.t007,ego,mean return golf course watch french duffer maul first tee sit cinzano umbrella i nurse espresso
+d002.s054.t000,figure,still i event envy-quotient back u.s.a. near peerless
+d002.s055.t000,clamber,ride back camp pilot french-speaking passenger chase car
+d002.s056.t000,leave,american companion i ride alfresco wicker basket
+d002.s056.t001,ride,american companion i leave alfresco wicker basket
+d002.s057.t000,streak,blase gendarme i could n't resist rear soggy loafer salute
+d002.s057.t001,resist,streak blase gendarme i could n't rear soggy loafer salute
+d002.s057.t002,rear,streak blase gendarme i could n't resist soggy loafer salute
+d002.s057.t003,salute,streak blase gendarme i could n't resist rear soggy loafer
