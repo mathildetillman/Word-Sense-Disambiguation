@@ -10,6 +10,12 @@ DATA = [
                 "isTrainingSet": True
             },
             {
+                "name": "all",
+                "goldKeyFp": "data/original/allTest/ALL.gold.key.txt",
+                "xmlFp": "data/original/allTest/ALL.data.xml",
+                "isTrainingSet": False
+            },
+            {
                 "name": "semeval2007",
                 "goldKeyFp": "data\original\semeval2007\semeval2007.gold.key.txt",
                 "xmlFp": "data\original\semeval2007\semeval2007.data.xml",
@@ -37,25 +43,28 @@ DATA = [
                 "goldKeyFp": "data\original\senseval3\senseval3.gold.key.txt",
                 "xmlFp": "data\original\senseval3\senseval3.data.xml",
                 "isTrainingSet": False
-            },
+            }
         ]
 
 def main():
 
+
     # 1 - Preprocess the datasets
-    for dataset in DATA:
-        preprocess(dataset["name"], dataset["goldKeyFp"], dataset["xmlFp"], dataset["isTrainingSet"])
-    
+    # for dataset in DATA:
+    #   preprocess(dataset["name"], dataset["goldKeyFp"], dataset["xmlFp"], dataset["isTrainingSet"])
+
     # 2 - Perform word sense disambiguation using the simplified Lesk algorithm
     simplifiedLesk = SimplifiedLesk() 
     simplifiedLesk.loadData()
     simplifiedLesk.runClassification()
+
 
     # 3 - Perform word sense disambiguation using the Naive Bayes classifier
     naiveBayes = NaiveBayesWSD() 
     naiveBayes.loadData()
     naiveBayes.trainModel()
     naiveBayes.runClassification()
+
 
 
 

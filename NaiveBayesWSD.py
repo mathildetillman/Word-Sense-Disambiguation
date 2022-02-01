@@ -13,6 +13,7 @@ class NaiveBayesWSD:
         self.semeval2015 = None             # Test dataset
         self.senseval2 = None               # Test dataset
         self.senseval3 = None               # Test dataset
+        self.allTest = None                 # All test datasets
 
         self.classes = []                   # List of sense classes in training dataset
         self.classCounts = None             # Series of with index: class, value: total count in training dataset
@@ -31,21 +32,23 @@ class NaiveBayesWSD:
         """ 
 
         # Load the training dataset
-        train = pd.read_csv("https://raw.githubusercontent.com/mathith/Word-Sense-Disambiguation-Data/main/semcor.csv")
+        train = pd.read_csv("data/cleaned/semcor.csv")
         self.train = train.dropna().reset_index(drop = True)
 
         # Load the test datasets
-        semeval2007 = pd.read_csv("https://raw.githubusercontent.com/mathith/Word-Sense-Disambiguation-Data/main/semeval2007.csv")
-        semeval2013 = pd.read_csv("https://raw.githubusercontent.com/mathith/Word-Sense-Disambiguation-Data/main/semeval2013.csv")
-        semeval2015 = pd.read_csv("https://raw.githubusercontent.com/mathith/Word-Sense-Disambiguation-Data/main/semeval2015.csv")
-        senseval2 = pd.read_csv("https://raw.githubusercontent.com/mathith/Word-Sense-Disambiguation-Data/main/senseval2.csv")
-        senseval3 = pd.read_csv("https://raw.githubusercontent.com/mathith/Word-Sense-Disambiguation-Data/main/senseval3.csv")
+        semeval2007 = pd.read_csv("data/cleaned/semeval2007.csv")
+        semeval2013 = pd.read_csv("data/cleaned/semeval2013.csv")
+        semeval2015 = pd.read_csv("data/cleaned/semeval2015.csv")
+        senseval2 = pd.read_csv("data/cleaned/senseval2.csv")
+        senseval3 = pd.read_csv("data/cleaned/senseval3.csv")
+        allTest = pd.read_csv("data/cleaned/allTest.csv")
 
-        self.semeval2007 = semeval2007.dropna().reset_index(drop = True) 
+        self.semeval2007 = semeval2007.dropna().reset_index(drop = True)
         self.semeval2013 = semeval2013.dropna().reset_index(drop = True)
-        self.semeval2015 = semeval2015.dropna().reset_index(drop = True) 
-        self.senseval2 = senseval2.dropna().reset_index(drop = True) 
-        self.senseval3 = senseval3.dropna().reset_index(drop = True) 
+        self.semeval2015 = semeval2015.dropna().reset_index(drop = True)
+        self.senseval2 = senseval2.dropna().reset_index(drop = True)
+        self.senseval3 = senseval3.dropna().reset_index(drop = True)
+        self.allTest = allTest.dropna().reset_index(drop=True)
 
 
     def trainModel(self):
@@ -116,11 +119,11 @@ class NaiveBayesWSD:
         scores = []     # List of the likelihood of the possible senses for the word in context
 
         # If word to be classified does not exist in training data
-        if (not (word in self.wordClasses.index)):
+        if not (word in self.wordClasses.index):
             return "None"
 
         # Else if only one possible class
-        if (len(self.wordClasses[word]) == 1):
+        if len(self.wordClasses[word]) == 1:
             predicted = next(iter(self.wordClasses[word]))
             return predicted
 
@@ -143,7 +146,7 @@ class NaiveBayesWSD:
     def runClassification(self):
         """
         Classify all the words in the test datasets and save results to file.
-        """ 
+        """
 
         self.semeval2007["predicted"] = self.semeval2007.apply(lambda row: self.classify(row), axis=1)
         self.semeval2007 = self.semeval2007.drop(["target_word", "context_string"], axis = 1)
@@ -165,6 +168,8 @@ class NaiveBayesWSD:
         self.senseval3 = self.senseval3.drop(["target_word", "context_string"], axis = 1)
         self.senseval3.to_csv("results/naiveBayes/nb_senseval3_predicted.txt", sep=' ', header = False, index = False)
 
-
+        self.allTest["predicted"] = self.allTest.apply(lambda row: self.classify(row), axis=1)
+        self.allTest = self.allTest.drop(["target_word", "context_string"], axis=1)
+        self.allTest.to_csv("results/naiveBayes/nb_allTest_predicted.txt", sep=' ', header=False, index=False)
 
 
