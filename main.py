@@ -1,6 +1,7 @@
 from preprocess import preprocess
 from SimplifiedLesk import SimplifiedLesk
 from NaiveBayesWSD import NaiveBayesWSD
+from MostFrequentSense import MostFrequentSense
 
 DATA = [
             {   
@@ -50,8 +51,8 @@ def main():
 
 
     # 1 - Preprocess the datasets
-    # for dataset in DATA:
-    #   preprocess(dataset["name"], dataset["goldKeyFp"], dataset["xmlFp"], dataset["isTrainingSet"])
+    for dataset in DATA:
+        preprocess(dataset["name"], dataset["goldKeyFp"], dataset["xmlFp"], dataset["isTrainingSet"])
 
     # 2 - Perform word sense disambiguation using the simplified Lesk algorithm
     simplifiedLesk = SimplifiedLesk() 
@@ -64,6 +65,11 @@ def main():
     naiveBayes.loadData()
     naiveBayes.trainModel()
     naiveBayes.runClassification()
+
+    # 4 - Perform word sense disambiguation using the most frequent sense
+    mostFrequentSense = MostFrequentSense()
+    mostFrequentSense.loadData()
+    mostFrequentSense.runClassification()
 
 
 
