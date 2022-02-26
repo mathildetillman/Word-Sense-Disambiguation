@@ -1,11 +1,11 @@
 # Word Sense Disambiguation
-
 > Mathilde Tillman Hegdal | 91258 Natural Language Processing | February 2022
-> <br />
-> Word Sense Disambiguation (WSD) is the task of determining which sense of a word is being used in a context. It is one of the most important open problems in the field of Natural Language Processing and has numerous applications, from machine translation to information retrieval systems.
-> <br />
-> <br />
-> <br />
+<br />
+
+Word Sense Disambiguation (WSD) is the task of determining which sense of a word is being used in a context. It is one of the most important open problems in the field of Natural Language Processing and has numerous applications, from machine translation to information retrieval systems.
+<br />
+<br />
+<br />
 
 **Methods**
 
